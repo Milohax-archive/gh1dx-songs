@@ -1,0 +1,24 @@
+name: CI
+
+on: [push, pull_request]
+
+jobs:
+  build_xbox:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Build GH1DX stfs
+        run: |
+          chmod +x dependencies/OnyxToolkit/onyx
+          find . -name "*.vgs" -type f -delete
+          export LD_LIBRARY_PATH=$(pwd)/dependencies/OnyxToolkit/lib
+          dependencies/OnyxToolkit/onyx stfs ./GHIDX --game gh2
+      
+      - name: Upload result
+        uses: actions/upload-artifact@v2
+        with:
+          name: GH1DX-Xbox_songs
+          path: |
+            GHIDX_gh2live

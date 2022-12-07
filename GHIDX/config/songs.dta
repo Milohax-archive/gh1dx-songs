@@ -1,0 +1,1321 @@
+(aceofspades
+   (name
+      "Ace of Spades")
+   (artist
+      "Motörhead")
+   (song
+      (name songs/aceofspades/aceofspades)
+      (tracks
+         ((guitar
+               (2 3))
+            (bass 4)))
+      (pans
+         (-1.0 1.0 -1.0 1.0 0.0))
+      (vols
+         (-3.5 -3.5 -3.0 -3.0 0.0))
+      (cores
+         (-1 -1 1 1 -1))
+      (midi_file songs/aceofspades/aceofspades.mid))
+   (anim_tempo kTempoFast)
+   (preview 9845 44150)
+   (quickplay
+      (character_outfit metal1)
+      (guitar lespaul)
+      (venue theatre))
+   (song_practice_1
+      (name songs/aceofspades/aceofspades_p85)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/aceofspades/aceofspades.mid))
+   (song_practice_2
+      (name songs/aceofspades/aceofspades_p65)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/aceofspades/aceofspades.mid))
+   (song_practice_3
+      (name songs/aceofspades/aceofspades_p50)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/aceofspades/aceofspades.mid)))
+(allofthis
+   (name "All of This")
+   (artist "Shaimus")
+   (caption performed_by)
+   (song
+      (name songs/allofthis/allofthis)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)
+          (fake 0)))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (0.0 0.0 0.0 0.0 0.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/allofthis/allofthis.mid))
+   (song_vs
+      (name songs/allofthis/allofthis)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (0.0 0.0 0.0 0.0 0.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/allofthis/allofthis.mid))
+   (anim_tempo kTempoFast)
+   (preview 42213 70000)
+   (quickplay
+      (character_outfit goth2)
+      (guitar flying_v)
+      (venue theatre)))
+(behindthemask
+   (name "Behind The Mask")
+   (artist "Anarchy Club")
+   (caption performed_by)
+   (song
+      (name songs/behindthemask/behindthemask)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)
+          ))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (0.0 0.0 0.0 0.0 0.0))
+      (cores (-1 -1 1 1 1))
+      (midi_file songs/behindthemask/behindthemask.mid))
+   (song_vs
+      (name songs/behindthemask/behindthemask)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (0.0 0.0 0.0 0.0 0.0))
+      (cores (-1 -1 1 1 1))
+      (midi_file songs/behindthemask/behindthemask.mid))
+   (anim_tempo kTempoMedium)
+   (preview 44768 76000)
+   (quickplay
+      (character_outfit goth2)
+      (guitar flying_v)
+      (venue theatre)))
+(breakingwheel
+   (name
+      "The Breaking Wheel")
+   (artist
+      "Artillery")
+   (song
+      (name songs/breakingwheel/breakingwheel)
+      (midi_file songs/breakingwheel/breakingwheel.mid)
+      (tracks ((guitar 1)))
+      (slip_tracks
+         ((2 3)))
+      (pans
+         (-1.0 1.0 -1.0 1.0))
+      (vols
+         (0.9 0.9 0.8 0.8))
+      (cores
+         (-1 -1 1 1))
+      (solo
+         (riffs standard)))
+   (band metal_bass metal_drummer)
+   (bank sfx/song_default)
+   (bpm 240)
+   (anim_tempo kTempoFast)
+   (preview 36780 66000)
+   (quickplay
+      (character hiphop)
+      (guitar gibson_flying_v)
+      (venue basement)))
+(callout
+   (name
+      "Callout")
+   (artist
+      "The Acro-Brats")
+   (song
+      (name songs/callout/callout)
+      (midi_file songs/callout/callout.mid)
+      (tracks ((guitar 1)))
+      (slip_tracks
+         ((2 3)))
+      (pans
+         (-1.0 1.0 -1.0 1.0))
+      (vols
+         (0.8 0.8 0.9 0.9))
+      (cores
+         (-1 -1 1 1))
+      (solo
+         (riffs standard)))
+   (bank sfx/song_default)
+   (bpm 230)
+   (anim_tempo kTempoFast)
+   (preview 36594 65000)
+   (quickplay
+      (character punk)
+      (guitar gibson_sg)
+      (venue small_club)))
+(cavemanrejoice
+   (name
+      "Caveman Rejoice")
+   (artist
+      "The Bags")
+   (song
+      (name songs/cavemanrejoice/cavemanrejoice)
+      (midi_file songs/cavemanrejoice/cavemanrejoice.mid)
+      (tracks ((guitar 1)))
+      (slip_tracks
+         ((2 3)))
+      (pans
+         (-1.0 1.0 -1.0 1.0))
+      (vols
+         (0.8 0.8 0.8 0.8))
+      (cores
+         (-1 -1 1 1))
+      (solo
+         (riffs standard)))
+   (bank sfx/song_default)
+   (bpm 94)
+   (anim_tempo kTempoMedium)
+   (preview 29628 60000)
+   
+   (quickplay
+      (character hiphop)
+      (guitar gibson_lespaul)
+      (venue theatre)))
+(cheatonthechurch
+   (name
+      "Cheat on the Church")
+   (artist
+      "Graveyard BBQ")
+   (song
+      (name songs/cheatonthechurch/cheatonthechurch)
+      (midi_file songs/cheatonthechurch/cheatonthechurch.mid)
+      (tracks ((guitar 1)))
+      (slip_tracks
+         ((2 3)))
+      (pans
+         (-1.0 1.0 -1.0 1.0))
+      (vols
+         (0.9 0.9 1.0 1.0))
+      (cores
+         (-1 -1 1 1))
+      (solo
+         (riffs standard)))
+   (bank sfx/song_default)
+   (bpm 210)
+   (anim_tempo kTempoFast)
+   (preview 71888 100000)
+   
+   (quickplay
+      (character nu_metal)
+      (guitar gibson_lespaul)
+      (venue arena)))
+(decontrol
+   (name
+      "Decontrol")
+   (artist
+      "Drist")
+   (song
+      (name songs/decontrol/decontrol)
+      (midi_file songs/decontrol/decontrol.mid)
+      (tracks ((guitar 1)))
+      (slip_tracks
+         ((2 3)))
+      (pans
+         (-1.0 1.0 -1.0 1.0))
+      (vols
+         (0.9 0.9 0.9 0.9))
+      (cores
+         (-1 -1 1 1))
+      (solo
+         (riffs standard)))
+   (bank sfx/song_default)
+   (bpm 210)
+   (anim_tempo kTempoFast)
+   (preview 50642 80362)
+   
+   (quickplay
+      (character nu_metal)
+      (guitar gibson_sg)
+      (venue big_club)))
+(eureka
+   (name
+      "Eureka, I've Found Love")
+   (artist
+      "The Upper Crust")
+   (song
+      (name songs/eureka/eureka)
+      (midi_file songs/eureka/eureka.mid)
+      (tracks ((guitar 1)))
+      (slip_tracks
+         ((2 3)))
+      (pans
+         (-1.0 1.0 -1.0 1.0))
+      (vols
+         (1.0 1.0 1.0 1.0))
+      (cores
+         (-1 -1 1 1))
+      (solo
+         (riffs standard)))
+   (bank sfx/song_default)
+   (bpm 147)
+   (anim_tempo kTempoFast)
+   (preview 32507 62972)
+   
+   (quickplay
+      (character classic)
+      (guitar gibson_sg)
+      (venue small_club)))
+(farewellmyth
+   (name "Farewell Myth")
+   (artist "Made in Mexico")
+   (caption performed_by)
+   (song 
+     (name        songs/farewellmyth/farewellmyth)
+     (tracks      ((guitar (2 3)) (bass (4 5))))
+     (pans        (-1.0   1.0   -1.0   1.0   -1.0   1.0))
+     (vols        (-1.0   -1.0   -1.0   -1.0   -1.0   -1.0))
+     (cores       (-1   -1   1   1   -1   -1))
+     (midi_file   songs/farewellmyth/farewellmyth.mid))
+   (anim_tempo kTempoFast)
+   (preview 140403 175075)
+   (band metal_bass metal_drummer female_singer)
+   (quickplay
+      (character_outfit rockabill2)
+      (guitar explorer)
+      (venue theatre))
+      (practice_speeds
+      (100 85 65 50))
+   (song_practice_1
+      (name songs/farewellmyth/farewellmyth_p85)
+      (tracks
+         ((bass 0)
+            (guitar 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/farewellmyth/farewellmyth.mid))
+   (song_practice_2
+      (name songs/farewellmyth/farewellmyth_p65)
+      (tracks
+         ((bass 0)
+            (guitar 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/farewellmyth/farewellmyth.mid))
+   (song_practice_3
+      (name songs/farewellmyth/farewellmyth_p50)
+      (tracks
+         ((bass 0)
+            (guitar 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/farewellmyth/farewellmyth.mid))
+)
+(frankenstein
+   (name
+      "Frankenstein")
+   (artist
+      "The Edgar Winter Group")
+   (song
+      (name songs/frankenstein/frankenstein)
+      (tracks
+         ((guitar
+               (2 3))
+            (bass 4)))
+      (pans
+         (-1.0 1.0 -1.0 1.0 0.0))
+      (vols
+         (-1.5 -1.5 -1.5 -1.5 -1.0))
+      (cores
+         (-1 -1 1 1 -1))
+      (midi_file songs/frankenstein/frankenstein.mid))
+   (anim_tempo kTempoMedium)
+   (preview 26000 56000)
+   (quickplay
+      (character_outfit rock2)
+      (guitar lespaul)
+      (venue theatre))
+   (song_practice_1
+      (name songs/frankenstein/frankenstein_p85)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/frankenstein/frankenstein.mid))
+   (song_practice_2
+      (name songs/frankenstein/frankenstein_p65)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/frankenstein/frankenstein.mid))
+   (song_practice_3
+      (name songs/frankenstein/frankenstein_p50)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/frankenstein/frankenstein.mid))
+   (band metal_bass metal_drummer metal_keyboard))
+(graveyardshift
+   (name "Graveyard Shift")
+   (artist "Gurney")
+   (caption performed_by)
+   (song
+      (name songs/graveyardshift/graveyardshift)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)
+          ))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (1.0 1.0 0.0 0.0 -1.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/graveyardshift/graveyardshift.mid))
+   (song_vs
+      (name songs/graveyardshift/graveyardshift)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (1.0 1.0 0.0 0.0 -1.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/graveyardshift/graveyardshift.mid))
+   (anim_tempo kTempoFast)
+   (preview 27850 45350)
+   (quickplay
+      (character_outfit punk1)
+      (guitar flying_v)
+      (venue small1)))
+(heyyou
+   (name
+      "Hey You")
+   (artist
+      "The Exies")
+   (song
+      (name songs/heyyou/heyyou)
+      (tracks
+         ((guitar
+               (2 3))
+            (bass 4)))
+      (pans
+         (-1.0 1.0 -1.0 1.0 0.0))
+      (vols
+         (-1.5 -1.5 -1.5 -1.5 -1.0))
+      (cores
+         (-1 -1 1 1 -1))
+      (midi_file songs/heyyou/heyyou.mid))
+   (anim_tempo kTempoMedium)
+   (preview 49853 79000)
+   (quickplay
+      (character_outfit alterna1)
+      (guitar sg)
+      (venue fest))
+   (song_practice_1
+      (name songs/heyyou/heyyou_p85)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/heyyou/heyyou.mid))
+   (song_practice_2
+      (name songs/heyyou/heyyou_p65)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/heyyou/heyyou.mid))
+   (song_practice_3
+      (name songs/heyyou/heyyou_p50)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/heyyou/heyyou.mid)))
+(higherground
+   (name
+      "Higher Ground")
+   (artist
+      "Red Hot Chili Peppers")
+   (song
+      (name songs/higherground/higherground)
+      (tracks
+         ((guitar
+               (2 3))
+            (bass 4)))
+      (pans
+         (-1.0 1.0 -1.0 1.0 0.0))
+      (vols
+         (-1.5 -1.5 -1.5 -1.5 -1.0))
+      (cores
+         (-1 -1 1 1 -1))
+      (midi_file songs/higherground/higherground.mid))
+   (anim_tempo kTempoFast)
+   (preview 41795 72000)
+   (quickplay
+      (character_outfit alterna1)
+      (guitar sg)
+      (venue battle))
+   (song_practice_1
+      (name songs/higherground/higherground_p85)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/higherground/higherground.mid))
+   (song_practice_2
+      (name songs/higherground/higherground_p65)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/higherground/higherground.mid))
+   (song_practice_3
+      (name songs/higherground/higherground_p50)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/higherground/higherground.mid)))
+(iloverockandroll
+   (name
+      "I Love Rock & Roll")
+   (artist
+      "Joan Jett & the Blackhearts")
+   (song
+      (name songs/iloverockandroll/iloverockandroll)
+      (midi_file songs/iloverockandroll/iloverockandroll.mid)
+      (tracks ((guitar 1)))
+      (slip_tracks
+         ((2 3)))
+      (pans
+         (-1.0 1.0 -1.0 1.0))
+      (vols
+         (0.9 0.9 0.9 0.9))
+      (cores
+         (-1 -1 1 1))
+      (solo
+         (riffs standard)))
+   (band female_singer metal_bass metal_drummer)
+   (bank sfx/song_default)
+   (bpm 95)
+   (anim_tempo kTempoMedium)
+   (preview 43885 73000)
+   
+   (quickplay
+      (character alterna)
+      (guitar gibson_lespaul)
+      (venue basement)))
+(infected
+   (name
+      "Infected")
+   (artist
+      "Bad Religion")
+   (song
+      (name songs/infected/infected)
+      (tracks
+         ((guitar
+               (2 3))
+            (bass 4)))
+      (pans
+         (-1.0 1.0 -1.0 1.0 0.0))
+      (vols
+         (-1.5 -1.5 -1.5 -1.5 -1.0))
+      (cores
+         (-1 -1 1 1 -1))
+      (midi_file songs/infected/infected.mid))
+   (anim_tempo kTempoMedium)
+   (preview 109892 133000)
+   (quickplay
+      (character_outfit punk1)
+      (guitar sg)
+      (venue fest))
+   (song_practice_1
+      (name songs/infected/infected_p85)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/infected/infected.mid))
+   (song_practice_2
+      (name songs/infected/infected_p65)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/infected/infected.mid))
+   (song_practice_3
+      (name songs/infected/infected_p50)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/infected/infected.mid)))
+(iwannabesedated
+   (name
+      "I Wanna Be Sedated")
+   (artist
+      "The Ramones")
+   (song
+      (name songs/iwannabesedated/iwannabesedated)
+      (tracks
+         ((guitar
+               (2 3))
+            (bass 4)))
+      (pans
+         (-1.0 1.0 -1.0 1.0 0.0))
+      (vols
+         (-2.5 -2.5 -3.5 -3.5 -2.5))
+      (cores
+         (-1 -1 1 1 -1))
+      (midi_file songs/iwannabesedated/iwannabesedated.mid))
+   (anim_tempo kTempoFast)
+   (preview 8000 33000)
+   (quickplay
+      (character_outfit punk1)
+      (guitar lespaul)
+      (venue battle))
+   (song_practice_1
+      (name songs/iwannabesedated/iwannabesedated_p85)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/iwannabesedated/iwannabesedated.mid))
+   (song_practice_2
+      (name songs/iwannabesedated/iwannabesedated_p65)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/iwannabesedated/iwannabesedated.mid))
+   (song_practice_3
+      (name songs/iwannabesedated/iwannabesedated_p50)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/iwannabesedated/iwannabesedated.mid)))
+(killerqueen
+   (name
+      "Killer Queen")
+   (artist
+      "Queen")
+   (song
+      (name songs/killerqueen/killerqueen)
+      (tracks
+         ((guitar
+               (2 3))
+            (bass 4)))
+      (pans
+         (-1.0 1.0 -1.0 1.0 0.0))
+      (vols
+         (-1.5 -1.5 -1.5 -1.5 -1.0))
+      (cores
+         (-1 -1 1 1 -1))
+      (midi_file songs/killerqueen/killerqueen.mid))
+   (anim_tempo kTempoFast)
+   (preview 26702 57254)
+   (quickplay
+      (character_outfit classic)
+      (guitar lespaul)
+      (venue theatre))
+   (song_practice_1
+      (name songs/killerqueen/killerqueen_p85)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/killerqueen/killerqueen.mid))
+   (song_practice_2
+      (name songs/killerqueen/killerqueen_p65)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/killerqueen/killerqueen.mid))
+   (song_practice_3
+      (name songs/killerqueen/killerqueen_p50)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/killerqueen/killerqueen.mid)))
+(barkathemoon
+   (name
+      "Bark at the Moon")
+   (artist
+      "Ozzy Osbourne")
+   (song
+      (name songs/barkathemoon/barkathemoon)
+      (tracks
+         ((guitar
+               (2 3))
+            (bass 4)))
+      (pans
+         (-1.0 1.0 -1.0 1.0 0.0))
+      (vols
+         (-3.5 -3.5 -3.0 -3.0 -0.0))
+      (cores
+         (-1 -1 1 1 -1))
+      (midi_file songs/barkathemoon/barkathemoon.mid))
+   (anim_tempo kTempoFast)
+   (preview 15696 42669)
+   (quickplay
+      (character_outfit metal1)
+      (guitar lespaul)
+      (venue theatre))
+   (song_practice_1
+      (name songs/barkathemoon/barkathemoon_p85)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/barkathemoon/barkathemoon.mid))
+   (song_practice_2
+      (name songs/barkathemoon/barkathemoon_p65)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/barkathemoon/barkathemoon.mid))
+   (song_practice_3
+      (name songs/barkathemoon/barkathemoon_p50)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/barkathemoon/barkathemoon.mid)))
+(getready2rokk
+   (name
+      "Get Ready 2 Rokk")
+   (artist
+      "Freezepop")
+   (song
+      (name songs/getready2rokk/getready2rokk)
+      (tracks ((guitar 1)))
+      (midi_file songs/getready2rokk/getready2rokk.mid)
+      (slip_tracks
+         ((2 3)))
+      (pans
+         (-1.0 1.0 -1.0 1.0))
+      (vols
+         (1.0 1.0 0.8 0.8))
+      (cores
+         (-1 -1 1 1))
+      (solo
+         (riffs standard)))
+   (band female_singer metal_bass metal_drummer)
+   (bank sfx/song_default)
+   (bpm 190)
+   (anim_tempo kTempoFast)
+   (preview 59164 89278)
+   (quickplay
+      (character punk)
+      (guitar gibson_flying_v)
+      (venue arena)))
+(godzilla
+   (name
+      "Godzilla")
+   (artist
+      "Blue Oyster Cult")
+   (song
+      (name songs/godzilla/godzilla)
+      (midi_file songs/godzilla/godzilla.mid)
+      (tracks ((guitar 1)))
+      (slip_tracks
+         ((2 3)))
+      (pans
+         (-1.0 1.0 -1.0 1.0))
+      (vols
+         (0.9 0.9 0.9 0.9))
+      (cores
+         (-1 -1 1 1))
+      (solo
+         (riffs standard)))
+   (bank sfx/song_default)
+   (bpm 91)
+   (anim_tempo kTempoMedium)
+   (preview 54241 84000)
+   
+   (quickplay
+      (character alterna)
+      (guitar gibson_sg)
+      (venue arena)))
+(smokeonthewater
+   (name
+      "Smoke on the Water")
+   (artist
+      "Deep Purple")
+   (song
+      (name songs/smokeonthewater/smokeonthewater)
+      (tracks
+         ((guitar
+               (2 3))
+            (bass 4)))
+      (pans
+         (-1.0 1.0 -1.0 1.0 0.0))
+      (vols
+         (-2.5 -2.5 -3.5 -3.5 -2.5))
+      (cores
+         (-1 -1 1 1 -1))
+      (midi_file songs/smokeonthewater/smokeonthewater.mid))
+   (anim_tempo kTempoMedium)
+   (preview 88000 119000)
+   (quickplay
+      (character_outfit rock2)
+      (guitar sg)
+      (venue battle))
+   (song_practice_1
+      (name songs/smokeonthewater/smokeonthewater_p85)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/smokeonthewater/smokeonthewater.mid))
+   (song_practice_2
+      (name songs/smokeonthewater/smokeonthewater_p65)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/smokeonthewater/smokeonthewater.mid))
+   (song_practice_3
+      (name songs/smokeonthewater/smokeonthewater_p50)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/smokeonthewater/smokeonthewater.mid)))
+(spanishcastlemagic
+   (name "Spanish Castle Magic")
+   (artist "Jimi Hendrix")
+   (song
+      (name songs/spanishcastlemagic/spanishcastlemagic)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)
+          ))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (0.0 0.0 0.0 0.0 0.0))
+      (cores (-1 -1 1 1 -1))
+   (midi_file songs/spanishcastlemagic/spanishcastlemagic.mid))
+   (song_vs
+      (name songs/spanishcastlemagic/spanishcastlemagic)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (0.0 0.0 0.0 0.0 0.0))
+      (cores (-1 -1 1 1 -1))
+   (midi_file songs/spanishcastlemagic/spanishcastlemagic.mid))
+   (anim_tempo kTempoMedium)
+   (preview 45789 75000)
+   (quickplay
+      (character_outfit goth2)
+      (guitar flying_v)
+      (venue theatre)))
+(stellar
+   (name
+      "Stellar")
+   (artist
+      "Incubus")
+   (song
+      (name songs/stellar/stellar)
+      (tracks
+         ((guitar
+               (2 3))
+            (bass 4)))
+      (pans
+         (-1.0 1.0 -1.0 1.0 0.0))
+      (vols
+         (-1.5 -1.5 -1.5 -1.5 -1.0))
+      (cores
+         (-1 -1 1 1 -1))
+      (midi_file songs/stellar/stellar.mid))
+   (anim_tempo kTempoMedium)
+   (preview 107461 137598)
+   (quickplay
+      (character_outfit alterna1)
+      (guitar sg)
+      (venue theatre))
+   (song_practice_1
+      (name songs/stellar/stellar_p85)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/stellar/stellar.mid))
+   (song_practice_2
+      (name songs/stellar/stellar_p65)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/stellar/stellar.mid))
+   (song_practice_3
+      (name songs/stellar/stellar_p50)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/stellar/stellar.mid)))
+(symphofdestruction
+   (name
+      "Symphony Of Destruction")
+   (artist
+      "Megadeth")
+   (song
+      (name songs/symphofdestruction/symphofdestruction)
+; gh1 dtas must have two lines edited in order to function in gh2 code.
+; marked in this song's comments is the original gh1 script.
+      ;(tracks 1)
+      (tracks ((guitar 1))) ;put into guitar array
+      (midi_file songs/symphofdestruction/symphofdestruction.mid) ;move midi_file into song array
+      (slip_tracks
+         ((2 3)))
+      (pans
+         (-1.0 1.0 -1.0 1.0))
+      (vols
+         (0.9 0.9 1.0 1.0))
+      (cores
+         (-1 -1 1 1))
+      (solo
+         (riffs symph))
+   )
+   (bank sfx/song_default)
+   (bpm 140)
+   (anim_tempo kTempoFast)
+   (preview 51548 81000)
+;   (midi_file songs/symphofdestruction/symphofdestruction.mid)
+   (quickplay
+      (character nu_metal)
+      (guitar gibson_lespaul)
+      (venue big_club))
+)
+(takeitoff
+   (name
+      "Take it Off")
+   (artist
+      "The Donnas")
+   (song
+      (name songs/takeitoff/takeitoff)
+      (tracks
+         ((guitar
+               (2 3))
+            (bass 4)))
+      (pans
+         (-1.0 1.0 -1.0 1.0 0.0))
+      (vols
+         (-1.5 -1.5 -1.5 -1.5 -1.0))
+      (cores
+         (-1 -1 1 1 -1))
+      (midi_file songs/takeitoff/takeitoff.mid))
+   (anim_tempo kTempoMedium)
+   (preview 38823 65000)
+   (quickplay
+      (character_outfit alterna1)
+      (guitar sg)
+      (venue battle))
+   (song_practice_1
+      (name songs/takeitoff/takeitoff_p85)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/takeitoff/takeitoff.mid))
+   (song_practice_2
+      (name songs/takeitoff/takeitoff_p65)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/takeitoff/takeitoff.mid))
+   (song_practice_3
+      (name songs/takeitoff/takeitoff_p50)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/takeitoff/takeitoff.mid))
+   (band metal_bass metal_drummer female_singer))
+(texasflood
+   (name
+      "Texas Flood")
+   (artist
+      "Stevie Ray Vaughan")
+   (song
+      (name songs/texasflood/texasflood)
+      (midi_file songs/texasflood/texasflood.mid)
+      (tracks ((guitar 1)))
+      (slip_tracks
+         ((2 3)))
+      (pans
+         (-1.0 1.0 -1.0 1.0))
+      (vols
+         (1.0 1.0 0.9 0.9))
+      (cores
+         (-1 -1 1 1))
+      (solo
+         (riffs standard)))
+   (bank sfx/song_default)
+   (bpm 130)
+   (anim_tempo kTempoFast)
+   (preview 64179 89693)
+   
+   (quickplay
+      (character classic)
+      (guitar gibson_sg)
+      (venue arena)))
+(thunderkiss65
+   (name "Thunder Kiss '65")
+   (artist "White Zombie")
+   (song
+      (name songs/thunderkiss65/thunderkiss65)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)
+		  (fake 0)))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (0.0 0.0 0.0 0.0 0.0))
+      (cores (-1 -1 1 1 -1))
+   (midi_file songs/thunderkiss65/thunderkiss65.mid))
+   (song_vs
+      (name songs/thunderkiss65/thunderkiss65)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)
+          (fake 0)))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (0.0 0.0 0.0 0.0 0.0))
+      (cores (-1 -1 1 1 -1))
+   (midi_file songs/thunderkiss65/thunderkiss65.mid))
+   (anim_tempo kTempoMedium)
+   (preview 34644 66343)
+   (quickplay
+      (character_outfit goth2)
+      (guitar flying_v)
+      (venue theatre)))
+(trippolette
+   (name "Trippolette")
+   (artist "Andrew Buch")
+   (caption performed_by)
+   (song
+      (name songs/trippolette/trippolette)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)
+          ))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (0.0 0.0 0.0 0.0 0.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/trippolette/trippolette.mid))
+   (song_vs
+      (name songs/trippolette/trippolette)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (0.0 0.0 0.0 0.0 0.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/trippolette/trippolette.mid))
+   (anim_tempo kTempoFast)
+   (preview 44854 67277)
+   (quickplay
+      (character_outfit goth2)
+      (guitar flying_v)
+      (venue arena)))
+(unsung
+   (name
+      "Unsung")
+   (artist
+      "Helmet")
+   (song
+      (name songs/unsung/unsung)
+      (midi_file songs/unsung/unsung.mid)
+      (tracks ((guitar 1)))
+      (slip_tracks
+         ((2 3)))
+      (pans
+         (-1.0 1.0 -1.0 1.0))
+      (vols
+         (0.9 0.9 0.9 0.9))
+      (cores
+         (-1 -1 1 1))
+      (solo
+         (riffs standard)))
+   (bank sfx/song_default)
+   (bpm 108)
+   (anim_tempo kTempoMedium)
+   (preview 52337 87526)
+   (midi_file songs/unsung/unsung.mid)
+   (quickplay
+      (character nu_metal)
+      (guitar gibson_lespaul)
+      (venue theatre)))
+(yougotanotherthingcomin
+   (name
+      "You've Got Another Thing Comin'")
+   (artist
+      "Judas Priest")
+   (song
+      (name songs/yougotanotherthingcomin/yougotanotherthingcomin)
+      (tracks
+         ((guitar
+               (2 3))
+            (bass 4)))
+      (pans
+         (-1.0 1.0 -1.0 1.0 0.0))
+      (vols
+         (-2.5 -2.5 -3.5 -3.5 -2.5))
+      (cores
+         (-1 -1 1 1 -1))
+      (midi_file songs/yougotanotherthingcomin/yougotanotherthingcomin.mid))
+   (anim_tempo kTempoMedium)
+   (preview 52300 73500)
+   (quickplay
+      (character_outfit metal1)
+      (guitar flying_v)
+      (venue battle))
+   (song_practice_1
+      (name songs/trooper/trooper_p85)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/trooper/trooper.mid))
+   (song_practice_2
+      (name songs/trooper/trooper_p65)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/trooper/trooper.mid))
+   (song_practice_3
+      (name songs/trooper/trooper_p50)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/trooper/trooper.mid)))
+(ziggystardust
+   (name
+      "Ziggy Stardust")
+   (artist
+      "David Bowie")
+   (song
+      (name songs/ziggystardust/ziggystardust)
+      (midi_file songs/ziggystardust/ziggystardust.mid)
+      (tracks ((guitar 1)))
+      (slip_tracks
+         ((2 3)))
+      (pans
+         (-1.0 1.0 -1.0 1.0))
+      (vols
+         (1.0 1.0 0.7 0.7))
+      (cores
+         (-1 -1 1 1))
+      (solo
+         (riffs standard)))
+   (bank sfx/song_default)
+   (bpm 80)
+   (anim_tempo kTempoMedium)
+   (preview 112198 142000)
+   
+   (quickplay
+      (character classic)
+      (guitar gibson_flying_v)
+      (venue theatre)))
