@@ -759,13 +759,13 @@
       (cores
          (-1 -1))
       (midi_file songs/killerqueen/killerqueen.mid)))
-(barkathemoon
+(barkatthemoon
    (name
       "Bark at the Moon")
    (artist
       "Ozzy Osbourne")
    (song
-      (name songs/barkathemoon/barkathemoon)
+      (name songs/barkatthemoon/barkatthemoon)
       (tracks
          ((guitar
                (2 3))
@@ -776,7 +776,7 @@
          (-3.5 -3.5 -3.0 -3.0 -0.0))
       (cores
          (-1 -1 1 1 -1))
-      (midi_file songs/barkathemoon/barkathemoon.mid))
+      (midi_file songs/barkatthemoon/barkatthemoon.mid))
    (anim_tempo kTempoFast)
    (preview 15696 42669)
    (quickplay
@@ -784,7 +784,7 @@
       (guitar lespaul)
       (venue theatre))
    (song_practice_1
-      (name songs/barkathemoon/barkathemoon_p85)
+      (name songs/barkatthemoon/barkatthemoon_p85)
       (tracks
          ((guitar 0)
             (bass 1)))
@@ -794,9 +794,9 @@
          (0.0 0.0))
       (cores
          (-1 -1))
-      (midi_file songs/barkathemoon/barkathemoon.mid))
+      (midi_file songs/barkatthemoon/barkatthemoon.mid))
    (song_practice_2
-      (name songs/barkathemoon/barkathemoon_p65)
+      (name songs/barkatthemoon/barkatthemoon_p65)
       (tracks
          ((guitar 0)
             (bass 1)))
@@ -806,9 +806,9 @@
          (0.0 0.0))
       (cores
          (-1 -1))
-      (midi_file songs/barkathemoon/barkathemoon.mid))
+      (midi_file songs/barkatthemoon/barkatthemoon.mid))
    (song_practice_3
-      (name songs/barkathemoon/barkathemoon_p50)
+      (name songs/barkatthemoon/barkatthemoon_p50)
       (tracks
          ((guitar 0)
             (bass 1)))
@@ -818,7 +818,7 @@
          (0.0 0.0))
       (cores
          (-1 -1))
-      (midi_file songs/barkathemoon/barkathemoon.mid)))
+      (midi_file songs/barkatthemoon/barkatthemoon.mid)))
 (getready2rokk
    (name
       "Get Ready 2 Rokk")
