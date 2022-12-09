@@ -90,7 +90,8 @@
    (farewellmyth (price 0))
    (getready2rokk (price 0))
    (graveyardshift (price 0))
-   (godzilla (price 0))
+   (godzilla (price 0)) ;campaign
+   (nooneknows (price 0)) ;campaign
    (trippolette (price 500000))
 )
 (character)
