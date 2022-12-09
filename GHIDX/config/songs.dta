@@ -124,7 +124,7 @@
    (song
       (name songs/breakingwheel/breakingwheel)
       (midi_file songs/breakingwheel/breakingwheel.mid)
-      (tracks ((guitar 1)))
+      (tracks ((guitar 2 3)))
       (slip_tracks
          ((2 3)))
       (pans
@@ -152,7 +152,7 @@
    (song
       (name songs/callout/callout)
       (midi_file songs/callout/callout.mid)
-      (tracks ((guitar 1)))
+      (tracks ((guitar 2 3)))
       (slip_tracks
          ((2 3)))
       (pans
@@ -179,7 +179,7 @@
    (song
       (name songs/cavemanrejoice/cavemanrejoice)
       (midi_file songs/cavemanrejoice/cavemanrejoice.mid)
-      (tracks ((guitar 1)))
+      (tracks ((guitar 2 3)))
       (slip_tracks
          ((2 3)))
       (pans
@@ -207,7 +207,7 @@
    (song
       (name songs/cheatonthechurch/cheatonthechurch)
       (midi_file songs/cheatonthechurch/cheatonthechurch.mid)
-      (tracks ((guitar 1)))
+      (tracks ((guitar 2 3)))
       (slip_tracks
          ((2 3)))
       (pans
@@ -235,7 +235,7 @@
    (song
       (name songs/decontrol/decontrol)
       (midi_file songs/decontrol/decontrol.mid)
-      (tracks ((guitar 1)))
+      (tracks ((guitar 2 3)))
       (slip_tracks
          ((2 3)))
       (pans
@@ -263,7 +263,7 @@
    (song
       (name songs/eureka/eureka)
       (midi_file songs/eureka/eureka.mid)
-      (tracks ((guitar 1)))
+      (tracks ((guitar 2 3)))
       (slip_tracks
          ((2 3)))
       (pans
@@ -558,7 +558,7 @@
    (song
       (name songs/iloverockandroll/iloverockandroll)
       (midi_file songs/iloverockandroll/iloverockandroll.mid)
-      (tracks ((guitar 1)))
+      (tracks ((guitar 2 3)))
       (slip_tracks
          ((2 3)))
       (pans
@@ -826,7 +826,7 @@
       "Freezepop")
    (song
       (name songs/getready2rokk/getready2rokk)
-      (tracks ((guitar 1)))
+      (tracks ((guitar 2 3)))
       (midi_file songs/getready2rokk/getready2rokk.mid)
       (slip_tracks
          ((2 3)))
@@ -855,7 +855,7 @@
    (song
       (name songs/godzilla/godzilla)
       (midi_file songs/godzilla/godzilla.mid)
-      (tracks ((guitar 1)))
+      (tracks ((guitar 2 3)))
       (slip_tracks
          ((2 3)))
       (pans
@@ -1033,7 +1033,7 @@
 ; gh1 dtas must have two lines edited in order to function in gh2 code.
 ; marked in this song's comments is the original gh1 script.
       ;(tracks 1)
-      (tracks ((guitar 1))) ;put into guitar array
+      (tracks ((guitar 2 3))) ;put into guitar array
       (midi_file songs/symphofdestruction/symphofdestruction.mid) ;move midi_file into song array
       (slip_tracks
          ((2 3)))
@@ -1125,7 +1125,7 @@
    (song
       (name songs/texasflood/texasflood)
       (midi_file songs/texasflood/texasflood.mid)
-      (tracks ((guitar 1)))
+      (tracks ((guitar 2 3)))
       (slip_tracks
          ((2 3)))
       (pans
@@ -1211,7 +1211,7 @@
    (song
       (name songs/unsung/unsung)
       (midi_file songs/unsung/unsung.mid)
-      (tracks ((guitar 1)))
+      (tracks ((guitar 2 3)))
       (slip_tracks
          ((2 3)))
       (pans
@@ -1299,7 +1299,7 @@
    (song
       (name songs/ziggystardust/ziggystardust)
       (midi_file songs/ziggystardust/ziggystardust.mid)
-      (tracks ((guitar 1)))
+      (tracks ((guitar 2 3)))
       (slip_tracks
          ((2 3)))
       (pans
