@@ -78,21 +78,44 @@
    (redoctane_scott (price 550))
    (redoctane_jnack (price 550)))
 (song
-   (smokeonthewater (price 0))
-   (allofthis (price 0))
-   (behindthemask (price 0))
-   (breakingwheel (price 0))
-   (callout (price 0))
-   (cavemanrejoice (price 0))
-   (cheatonthechurch (price 0))
-   (decontrol (price 0))
-   (eureka (price 0))
-   (farewellmyth (price 0))
-   (getready2rokk (price 0))
-   (graveyardshift (price 0))
-   (godzilla (price 0)) ;campaign
-   (nooneknows (price 0)) ;campaign
-   (trippolette (price 500000))
+   (allofthis
+      (price 250))
+   (behindthemask
+      (price 250))
+   (breakingwheel
+      (price 250))
+   (callout
+      (price 250))
+   (cavemanrejoice
+      (price 300))
+   (cheatonthechurch
+      (price 300))
+   (fireitup
+      (price 300))
+   (eureka
+      (price 300))
+   (evenrats
+      (price 250))
+   (decontrol
+      (price 250))
+   (farewellmyth
+      (price 250))
+   (flyonthewall
+      (price 250))
+   (getready2rokk
+      (price 250))
+   (guitarhero
+      (price 250))
+   (hey
+      (price 250))
+   (sailyourshipby
+      (price 250))
+   (storyofmylove
+      (price 250))
+   (trippolette
+      (price 0))
+   (graveyardshift
+      (price 0)))
 )
 (character)
 (outfit)

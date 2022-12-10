@@ -1,15 +1,15 @@
 (order
-   (battle iloverockandroll iwannabesedated thunderkiss65)
-   (small1 infected yougotanotherthingcomin killerqueen)
-   (small2 heyyou stellar symphofdestruction)
-   (theatre ziggystardust takeitoff unsung)
-   (fest spanishcastlemagic higherground aceofspades)
-   (arena texasflood frankenstein barkatthemoon))
+   (battle iloverockandroll iwannabesedated thunderkiss65 smokeonthewater infected)
+   (small1 ironman morethanafeeling yougotanotherthingcomin takemeout sharpdressedman)
+   (small2 killerqueen heyyou stellar heartfullofblack symphofdestruction)
+   (theatre ziggystardust fatlip cochise takeitoff unsung)
+   (fest spanishcastlemagic higherground nooneknows aceofspades crossroads)
+   (arena godzilla texasflood frankenstein cowboysfromhell barkatthemoon))
 (required_songs
-   (kDifficultyEasy 2 3)
-   (kDifficultyMedium 3 3)
-   (kDifficultyHard 3 3)
-   (kDifficultyExpert 3 3))
+   (kDifficultyEasy 4 5)
+   (kDifficultyMedium 5 5)
+   (kDifficultyHard 5 5)
+   (kDifficultyExpert 5 5))
 (cash
    (starting 250)
    (star_awards

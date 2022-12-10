@@ -87,6 +87,66 @@
       (character_outfit goth2)
       (guitar flying_v)
       (venue theatre)))
+(barkatthemoon
+   (name
+      "Bark at the Moon")
+   (artist
+      "Ozzy Osbourne")
+   (song
+      (name songs/barkatthemoon/barkatthemoon)
+      (tracks
+         ((guitar
+               (2 3))
+            (bass 4)))
+      (pans
+         (-1.0 1.0 -1.0 1.0 0.0))
+      (vols
+         (-3.5 -3.5 -3.0 -3.0 -0.0))
+      (cores
+         (-1 -1 1 1 -1))
+      (midi_file songs/barkatthemoon/barkatthemoon.mid))
+   (anim_tempo kTempoFast)
+   (preview 15696 42669)
+   (quickplay
+      (character_outfit metal1)
+      (guitar lespaul)
+      (venue theatre))
+   (song_practice_1
+      (name songs/barkatthemoon/barkatthemoon_p85)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/barkatthemoon/barkatthemoon.mid))
+   (song_practice_2
+      (name songs/barkatthemoon/barkatthemoon_p65)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/barkatthemoon/barkatthemoon.mid))
+   (song_practice_3
+      (name songs/barkatthemoon/barkatthemoon_p50)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/barkatthemoon/barkatthemoon.mid)))
 (behindthemask
    (name "Behind The Mask")
    (artist "Anarchy Club")
@@ -227,6 +287,90 @@
       (character nu_metal)
       (guitar gibson_lespaul)
       (venue arena)))
+(cochise
+   (name
+      "Cochise")
+   (artist
+      "Audioslave")
+   (song
+      (name songs/cochise/cochise)
+      (midi_file songs/cochise/cochise.mid)
+      (tracks ((guitar (2 3))))
+      (slip_tracks
+         ((2 3)))
+      (pans
+         (-1.0 1.0 -1.0 1.0))
+      (vols
+         (0.8 0.8 0.9 0.9))
+      (cores
+         (-1 -1 1 1))
+      (solo
+         (riffs standard)))
+   (bank sfx/song_default)
+   (bpm 80)
+   (anim_tempo kTempoMedium)
+   (preview 48390 78000)
+   
+   (quickplay
+      (character hiphop)
+      (guitar gibson_sg)
+      (venue theatre)))
+(cowboysfromhell
+   (name
+      "Cowboys from Hell")
+   (artist
+      "Pantera")
+   (song
+      (name songs/cowboysfromhell/cowboysfromhell)
+      (midi_file songs/cowboysfromhell/cowboysfromhell.mid)
+      (tracks ((guitar (2 3))))
+      (slip_tracks
+         ((2 3)))
+      (pans
+         (-1.0 1.0 -1.0 1.0))
+      (vols
+         (0.9 0.9 0.9 0.9))
+      (cores
+         (-1 -1 1 1))
+      (solo
+         (riffs standard)))
+   (bank sfx/song_default)
+   (bpm 113)
+   (anim_tempo kTempoMedium)
+   (preview 43978 73000)
+   
+   (quickplay
+      (character nu_metal)
+      (guitar gibson_sg)
+      (venue arena)))
+(crossroads
+   (name
+      "Crossroads")
+   (artist
+      "Cream")
+   (song
+      (name songs/crossroads/crossroads)
+      (midi_file songs/crossroads/crossroads.mid)
+      (tracks ((guitar (2 3))))
+      (slip_tracks
+         ((2 3)))
+      (pans
+         (-1.0 1.0 -1.0 1.0))
+      (vols
+         (0.7 0.7 1.0 1.0))
+      (cores
+         (-1 -1 1 1))
+      (solo
+         (riffs standard)))
+   (bank sfx/song_default)
+   (bpm 130)
+   (anim_tempo kTempoFast)
+   (preview 19969 49000)
+   
+   (quickplay
+      (character classic)
+      (guitar gibson_lespaul)
+      (venue fest)))
 (decontrol
    (name
       "Decontrol")
@@ -283,6 +427,34 @@
       (character classic)
       (guitar gibson_sg)
       (venue small_club)))
+(evenrats
+   (name
+      "Even Rats")
+   (artist
+      "The Slip")
+   (song
+      (name songs/evenrats/evenrats)
+      (midi_file songs/evenrats/evenrats.mid)
+      (tracks ((guitar (2 3))))
+      (slip_tracks
+         ((2 3)))
+      (pans
+         (-1.0 1.0 -1.0 1.0))
+      (vols
+         (0.9 0.9 0.9 0.9))
+      (cores
+         (-1 -1 1 1))
+      (solo
+         (riffs standard)))
+   (bank sfx/song_default)
+   (bpm 140)
+   (anim_tempo kTempoFast)
+   (preview 300633 335682)
+   
+   (quickplay
+      (character alterna)
+      (guitar gibson_lespaul)
+      (venue fest)))
 (farewellmyth
    (name "Farewell Myth")
    (artist "Made in Mexico")
@@ -340,6 +512,91 @@
          (-1 -1))
       (midi_file songs/farewellmyth/farewellmyth.mid))
 )
+(fatlip
+   (name
+      "Fat Lip")
+   (artist
+      "Sum41")
+   (song
+      (name songs/fatlip/fatlip)
+      (midi_file songs/fatlip/fatlip.mid)
+      (tracks ((guitar (2 3))))
+      (slip_tracks
+         ((2 3)))
+      (pans
+         (-1.0 1.0 -1.0 1.0))
+      (vols
+         (0.8 0.8 0.8 0.8))
+      (cores
+         (-1 -1 1 1))
+      (solo
+         (riffs standard)))
+   (bank sfx/song_default)
+   (bpm 98)
+   (anim_tempo kTempoMedium)
+   (preview 18065 39811)
+   
+   (quickplay
+      (character punk)
+      (guitar gibson_flying_v)
+      (venue theatre)))
+(fireitup
+   (name
+      "Fire It Up")
+   (artist
+      "Black Label Society")
+   (song
+      (name songs/fireitup/fireitup)
+      (midi_file songs/fireitup/fireitup.mid)
+      (tracks ((guitar (2 3))))
+      (slip_tracks
+         ((2 3)))
+      (pans
+         (-1.0 1.0 -1.0 1.0))
+      (vols
+         (0.9 0.9 0.7 0.7))
+      (cores
+         (-1 -1 1 1))
+      (solo
+         (riffs standard)))
+   (bank sfx/song_default)
+   (bpm 92)
+   (anim_tempo kTempoMedium)
+   (preview 143777 170357)
+   
+   (quickplay
+      (character metal)
+      (guitar gibson_lespaul)
+      (guitar_skin gibson_lespaul_wylde)
+      (venue arena)))
+(flyonthewall
+   (name
+      "Fly On The Wall")
+   (artist
+      "Din")
+   (song
+      (name songs/flyonthewall/flyonthewall)
+      (midi_file songs/flyonthewall/flyonthewall.mid)
+      (tracks ((guitar (2 3))))
+      (slip_tracks
+         ((2 3)))
+      (pans
+         (-1.0 1.0 -1.0 1.0))
+      (vols
+         (0.9 0.9 0.9 0.9))
+      (cores
+         (-1 -1 1 1))
+      (solo
+         (riffs standard)))
+   (bank sfx/song_default)
+   (bpm 147)
+   (anim_tempo kTempoFast)
+   (preview 21083 52105)
+   
+   (quickplay
+      (character classic)
+      (guitar gibson_flying_v)
+      (venue small_club)))
 (frankenstein
    (name
       "Frankenstein")
@@ -430,6 +687,90 @@
       (character_outfit punk1)
       (guitar flying_v)
       (venue small1)))
+(guitarhero
+   (name
+      "Guitar Hero")
+   (artist
+      "Monkey Steals The Peach")
+   (song
+      (name songs/guitarhero/guitarhero)
+      (midi_file songs/guitarhero/guitarhero.mid)
+      (tracks ((guitar (2 3))))
+      (slip_tracks
+         ((2 3)))
+      (pans
+         (-1.0 1.0 -1.0 1.0))
+      (vols
+         (0.9 0.9 0.9 0.9))
+      (cores
+         (-1 -1 1 1))
+      (solo
+         (riffs standard)))
+   (bank sfx/song_default)
+   (bpm 180)
+   (anim_tempo kTempoFast)
+   (preview 49179 80000)
+   
+   (quickplay
+      (character punk)
+      (guitar gibson_sg)
+      (venue fest)))
+(heartfullofblack
+   (name
+      "Heart Full of Black")
+   (artist
+      "Burning Brides")
+   (song
+      (name songs/heartfullofblack/heartfullofblack)
+      (midi_file songs/heartfullofblack/heartfullofblack.mid)
+      (tracks ((guitar (2 3))))
+      (slip_tracks
+         ((2 3)))
+      (pans
+         (-1.0 1.0 -1.0 1.0))
+      (vols
+         (0.9 0.9 0.8 0.8))
+      (cores
+         (-1 -1 1 1))
+      (solo
+         (riffs standard)))
+   (bank sfx/song_default)
+   (bpm 100)
+   (anim_tempo kTempoMedium)
+   (preview 47159 77000)
+   
+   (quickplay
+      (character metal)
+      (guitar gibson_lespaul)
+      (venue big_club)))
+(hey
+   (name
+      "Hey")
+   (artist
+      "Honest Bob and the Factory-to-Dealer Incentives")
+   (song
+      (name songs/hey/hey)
+      (midi_file songs/hey/hey.mid)
+      (tracks ((guitar (2 3))))
+      (slip_tracks
+         ((2 3)))
+      (pans
+         (-1.0 1.0 -1.0 1.0))
+      (vols
+         (0.9 0.9 1.0 1.0))
+      (cores
+         (-1 -1 1 1))
+      (solo
+         (riffs standard)))
+   (bank sfx/song_default)
+   (bpm 131)
+   (anim_tempo kTempoFast)
+   (preview 121301 153137)
+   
+   (quickplay
+      (character classic)
+      (guitar gibson_lespaul)
+      (venue theatre)))
 (heyyou
    (name
       "Hey You")
@@ -639,6 +980,34 @@
       (cores
          (-1 -1))
       (midi_file songs/infected/infected.mid)))
+(ironman
+   (name
+      "Iron Man")
+   (artist
+      "Black Sabbath")
+   (song
+      (name songs/ironman/ironman)
+      (midi_file songs/ironman/ironman.mid)
+      (tracks ((guitar (2 3))))
+      (slip_tracks
+         ((2 3)))
+      (pans
+         (-1.0 1.0 -1.0 1.0))
+      (vols
+         (0.9 0.9 0.8 0.8))
+      (cores
+         (-1 -1 1 1))
+      (solo
+         (riffs standard)))
+   (bank sfx/song_default)
+   (bpm 75)
+   (anim_tempo kTempoMedium)
+   (preview 39102 70000)
+   
+   (quickplay
+      (character metal)
+      (guitar gibson_sg)
+      (venue small_club)))
 (iwannabesedated
    (name
       "I Wanna Be Sedated")
@@ -759,66 +1128,7 @@
       (cores
          (-1 -1))
       (midi_file songs/killerqueen/killerqueen.mid)))
-(barkatthemoon
-   (name
-      "Bark at the Moon")
-   (artist
-      "Ozzy Osbourne")
-   (song
-      (name songs/barkatthemoon/barkatthemoon)
-      (tracks
-         ((guitar
-               (2 3))
-            (bass 4)))
-      (pans
-         (-1.0 1.0 -1.0 1.0 0.0))
-      (vols
-         (-3.5 -3.5 -3.0 -3.0 -0.0))
-      (cores
-         (-1 -1 1 1 -1))
-      (midi_file songs/barkatthemoon/barkatthemoon.mid))
-   (anim_tempo kTempoFast)
-   (preview 15696 42669)
-   (quickplay
-      (character_outfit metal1)
-      (guitar lespaul)
-      (venue theatre))
-   (song_practice_1
-      (name songs/barkatthemoon/barkatthemoon_p85)
-      (tracks
-         ((guitar 0)
-            (bass 1)))
-      (pans
-         (0.0 0.0))
-      (vols
-         (0.0 0.0))
-      (cores
-         (-1 -1))
-      (midi_file songs/barkatthemoon/barkatthemoon.mid))
-   (song_practice_2
-      (name songs/barkatthemoon/barkatthemoon_p65)
-      (tracks
-         ((guitar 0)
-            (bass 1)))
-      (pans
-         (0.0 0.0))
-      (vols
-         (0.0 0.0))
-      (cores
-         (-1 -1))
-      (midi_file songs/barkatthemoon/barkatthemoon.mid))
-   (song_practice_3
-      (name songs/barkatthemoon/barkatthemoon_p50)
-      (tracks
-         ((guitar 0)
-            (bass 1)))
-      (pans
-         (0.0 0.0))
-      (vols
-         (0.0 0.0))
-      (cores
-         (-1 -1))
-      (midi_file songs/barkatthemoon/barkatthemoon.mid)))
+
 (getready2rokk
    (name
       "Get Ready 2 Rokk")
@@ -875,6 +1185,34 @@
       (character alterna)
       (guitar gibson_sg)
       (venue arena)))
+(morethanafeeling
+   (name
+      "More Than A Feeling")
+   (artist
+      "Boston")
+   (song
+      (name songs/morethanafeeling/morethanafeeling)
+      (midi_file songs/morethanafeeling/morethanafeeling.mid)
+      (tracks ((guitar (2 3))))
+      (slip_tracks
+         ((2 3)))
+      (pans
+         (-1.0 1.0 -1.0 1.0))
+      (vols
+         (0.9 0.9 0.9 0.9))
+      (cores
+         (-1 -1 1 1))
+      (solo
+         (riffs more)))
+   (bank sfx/song_default)
+   (bpm 109)
+   (anim_tempo kTempoMedium)
+   (preview 52500 82000)
+   
+   (quickplay
+      (character classic)
+      (guitar gibson_lespaul)
+      (venue small_club)))
 (nooneknows
    (name
       "No One Knows")
@@ -904,6 +1242,62 @@
       (character metal)
       (guitar gibson_lespaul)
       (venue fest)))
+(sailyourshipby
+   (name
+      "Sail Your Ship By")
+   (artist
+      "Count Zero")
+   (song
+      (name songs/sailyourshipby/sailyourshipby)
+      (midi_file songs/sailyourshipby/sailyourshipby.mid)
+      (tracks ((guitar (2 3))))
+      (slip_tracks
+         ((2 3)))
+      (pans
+         (-1.0 1.0 -1.0 1.0))
+      (vols
+         (0.9 0.9 0.8 0.8))
+      (cores
+         (-1 -1 1 1))
+      (solo
+         (riffs standard)))
+   (bank sfx/song_default)
+   (bpm 85)
+   (anim_tempo kTempoMedium)
+   (preview 43281 75000)
+   
+   (quickplay
+      (character alterna)
+      (guitar gibson_flying_v)
+      (venue theatre)))
+(sharpdressedman
+   (name
+      "Sharp Dressed Man")
+   (artist
+      "ZZ Top")
+   (song
+      (name songs/sharpdressedman/sharpdressedman)
+      (midi_file songs/sharpdressedman/sharpdressedman.mid)
+      (tracks ((guitar (2 3))))
+      (slip_tracks
+         ((2 3)))
+      (pans
+         (-1.0 1.0 -1.0 1.0))
+      (vols
+         (0.9 0.9 0.9 0.9))
+      (cores
+         (-1 -1 1 1))
+      (solo
+         (riffs standard)))
+   (bank sfx/song_default)
+   (bpm 124)
+   (anim_tempo kTempoMedium)
+   (preview 27028 59300)
+   
+   (quickplay
+      (character hiphop)
+      (guitar gibson_flying_v)
+      (venue small_club)))
 (smokeonthewater
    (name
       "Smoke on the Water")
@@ -1052,6 +1446,34 @@
       (cores
          (-1 -1))
       (midi_file songs/stellar/stellar.mid)))
+(storyofmylove
+   (name
+      "Story of My Love")
+   (artist
+      "The Model Sons")
+   (song
+      (name songs/storyofmylove/storyofmylove)
+      (midi_file songs/storyofmylove/storyofmylove.mid)
+      (tracks ((guitar (2 3))))
+      (slip_tracks
+         ((2 3)))
+      (pans
+         (-1.0 1.0 -1.0 1.0))
+      (vols
+         (0.8 0.8 1.0 1.0))
+      (cores
+         (-1 -1 1 1))
+      (solo
+         (riffs standard)))
+   (bank sfx/song_default)
+   (bpm 162)
+   (anim_tempo kTempoFast)
+   (preview 44653 76000)
+   
+   (quickplay
+      (character metal)
+      (guitar gibson_lespaul)
+      (venue big_club)))
 (symphofdestruction
    (name
       "Symphony Of Destruction")
@@ -1146,6 +1568,34 @@
          (-1 -1))
       (midi_file songs/takeitoff/takeitoff.mid))
    (band metal_bass metal_drummer female_singer))
+(takemeout
+   (name
+      "Take Me Out")
+   (artist
+      "Franz Ferdinand")
+   (song
+      (name songs/takemeout/takemeout)
+      (midi_file songs/takemeout/takemeout.mid)
+      (tracks ((guitar (2 3))))
+      (slip_tracks
+         ((2 3)))
+      (pans
+         (-1.0 1.0 -1.0 1.0))
+      (vols
+         (0.9 0.9 0.8 0.8))
+      (cores
+         (-1 -1 1 1))
+      (solo
+         (riffs standard)))
+   (bank sfx/song_default)
+   (bpm 100)
+   (anim_tempo kTempoMedium)
+   (preview 83591 115356)
+   
+   (quickplay
+      (character alterna)
+      (guitar gibson_flying_v)
+      (venue small_club)))
 (texasflood
    (name
       "Texas Flood")
