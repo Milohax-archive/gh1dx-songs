@@ -116,7 +116,6 @@
       (price 0))
    (graveyardshift
       (price 0)))
-)
 (character)
 (outfit)
 (video)
