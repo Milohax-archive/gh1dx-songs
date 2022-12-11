@@ -2,7 +2,21 @@
    (name
       "Ace of Spades")
    (artist
-      "MotÃ¶rhead")
+      {do
+         {set $songalbum "Ace of Spades"}
+         {set $author "Harmonix"}
+         {set $songyear "1980"}
+         {set $songgenre "Metal"}
+         {set $songorigin "Guitar Hero I"}
+         {set $songduration 193356}
+         {set $songguitarrank 3}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Motörhead"}
+      }
+      "Motörhead"
+   )
    (song
       (name songs/aceofspades/aceofspades)
       (tracks
@@ -21,46 +35,25 @@
    (quickplay
       (character_outfit metal1)
       (guitar lespaul)
-      (venue theatre))
-   (song_practice_1
-      (name songs/aceofspades/aceofspades_p85)
-      (tracks
-         ((guitar 0)
-            (bass 1)))
-      (pans
-         (0.0 0.0))
-      (vols
-         (0.0 0.0))
-      (cores
-         (-1 -1))
-      (midi_file songs/aceofspades/aceofspades.mid))
-   (song_practice_2
-      (name songs/aceofspades/aceofspades_p65)
-      (tracks
-         ((guitar 0)
-            (bass 1)))
-      (pans
-         (0.0 0.0))
-      (vols
-         (0.0 0.0))
-      (cores
-         (-1 -1))
-      (midi_file songs/aceofspades/aceofspades.mid))
-   (song_practice_3
-      (name songs/aceofspades/aceofspades_p50)
-      (tracks
-         ((guitar 0)
-            (bass 1)))
-      (pans
-         (0.0 0.0))
-      (vols
-         (0.0 0.0))
-      (cores
-         (-1 -1))
-      (midi_file songs/aceofspades/aceofspades.mid)))
+      (venue theatre)))
 (allofthis
    (name "All of This")
-   (artist "Shaimus")
+   (artist
+      {do
+         {set $songalbum "Paper Sun"}
+         {set $author "Harmonix, mariteaux"}
+         {set $songyear "2005"}
+         {set $songgenre "Rock"}
+         {set $songorigin "Guitar Hero I"}
+         {set $songduration 157816}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Shaimus"}
+      }
+      "Shaimus"
+   )
    (caption performed_by)
    (song
       (name songs/allofthis/allofthis)
@@ -91,7 +84,21 @@
    (name
       "Bark at the Moon")
    (artist
-      "Ozzy Osbourne")
+      {do
+         {set $songalbum "Bark at the Moon"}
+         {set $author "Harmonix"}
+         {set $songyear "1983"}
+         {set $songgenre "Metal"}
+         {set $songorigin "Guitar Hero I"}
+         {set $songduration 260559}
+         {set $songguitarrank 6}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Ozzy Osbourne"}
+      }
+      "Ozzy Osbourne"
+   )
    (song
       (name songs/barkatthemoon/barkatthemoon)
       (tracks
@@ -110,46 +117,25 @@
    (quickplay
       (character_outfit metal1)
       (guitar lespaul)
-      (venue theatre))
-   (song_practice_1
-      (name songs/barkatthemoon/barkatthemoon_p85)
-      (tracks
-         ((guitar 0)
-            (bass 1)))
-      (pans
-         (0.0 0.0))
-      (vols
-         (0.0 0.0))
-      (cores
-         (-1 -1))
-      (midi_file songs/barkatthemoon/barkatthemoon.mid))
-   (song_practice_2
-      (name songs/barkatthemoon/barkatthemoon_p65)
-      (tracks
-         ((guitar 0)
-            (bass 1)))
-      (pans
-         (0.0 0.0))
-      (vols
-         (0.0 0.0))
-      (cores
-         (-1 -1))
-      (midi_file songs/barkatthemoon/barkatthemoon.mid))
-   (song_practice_3
-      (name songs/barkatthemoon/barkatthemoon_p50)
-      (tracks
-         ((guitar 0)
-            (bass 1)))
-      (pans
-         (0.0 0.0))
-      (vols
-         (0.0 0.0))
-      (cores
-         (-1 -1))
-      (midi_file songs/barkatthemoon/barkatthemoon.mid)))
+      (venue theatre)))
 (behindthemask
-   (name "Behind The Mask")
-   (artist "Anarchy Club")
+   (name "Behind the Mask")
+   (artist
+      {do
+         {set $songalbum "The Way & Its Power"}
+         {set $author "Harmonix, AddyMills"}
+         {set $songyear "2005"}
+         {set $songgenre "Rock"}
+         {set $songorigin "Guitar Hero I"}
+         {set $songduration 173618}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Anarchy Club"}
+      }
+      "Anarchy Club"
+   )
    (caption performed_by)
    (song
       (name songs/behindthemask/behindthemask)
@@ -180,7 +166,21 @@
    (name
       "The Breaking Wheel")
    (artist
-      "Artillery")
+      {do
+         {set $songalbum "Breaking Wheel"}
+         {set $author "Harmonix"}
+         {set $songyear "2005"}
+         {set $songgenre "Metal"}
+         {set $songorigin "Guitar Hero I"}
+         {set $songduration 252841}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Artillery"}
+      }
+      "Artillery"
+   )
    (song
       (name songs/breakingwheel/breakingwheel)
       (midi_file songs/breakingwheel/breakingwheel.mid)
@@ -192,12 +192,8 @@
       (vols
          (0.9 0.9 0.8 0.8))
       (cores
-         (-1 -1 1 1))
-      (solo
-         (riffs standard)))
+         (-1 -1 1 1)))
    (band metal_bass metal_drummer)
-   (bank sfx/song_default)
-   (bpm 240)
    (anim_tempo kTempoFast)
    (preview 36780 66000)
    (quickplay
@@ -208,7 +204,21 @@
    (name
       "Callout")
    (artist
-      "The Acro-Brats")
+      {do
+         {set $songalbum "...Go Down Swinging!"}
+         {set $author "Harmonix"}
+         {set $songyear "2006"}
+         {set $songgenre "Punk"}
+         {set $songorigin "Guitar Hero I"}
+         {set $songduration 198429}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "The Acro-Brats"}
+      }
+      "The Acro-Brats"
+   )
    (song
       (name songs/callout/callout)
       (midi_file songs/callout/callout.mid)
@@ -220,11 +230,7 @@
       (vols
          (0.8 0.8 0.9 0.9))
       (cores
-         (-1 -1 1 1))
-      (solo
-         (riffs standard)))
-   (bank sfx/song_default)
-   (bpm 230)
+         (-1 -1 1 1)))
    (anim_tempo kTempoFast)
    (preview 36594 65000)
    (quickplay
@@ -235,7 +241,21 @@
    (name
       "Caveman Rejoice")
    (artist
-      "The Bags")
+      {do
+         {set $songalbum "Sharpen Your Sticks"}
+         {set $author "Harmonix"}
+         {set $songyear "2005"}
+         {set $songgenre "Rock"}
+         {set $songorigin "Guitar Hero I"}
+         {set $songduration 220046}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "The Bags"}
+      }
+      "The Bags"
+   )
    (song
       (name songs/cavemanrejoice/cavemanrejoice)
       (midi_file songs/cavemanrejoice/cavemanrejoice.mid)
@@ -247,14 +267,9 @@
       (vols
          (0.8 0.8 0.8 0.8))
       (cores
-         (-1 -1 1 1))
-      (solo
-         (riffs standard)))
-   (bank sfx/song_default)
-   (bpm 94)
+         (-1 -1 1 1)))
    (anim_tempo kTempoMedium)
    (preview 29628 60000)
-   
    (quickplay
       (character hiphop)
       (guitar gibson_lespaul)
@@ -263,7 +278,21 @@
    (name
       "Cheat on the Church")
    (artist
-      "Graveyard BBQ")
+      {do
+         {set $songalbum "Greatest Hits Volume I"}
+         {set $author "Harmonix"}
+         {set $songyear "2005"}
+         {set $songgenre "Metal"}
+         {set $songorigin "Guitar Hero I"}
+         {set $songduration 261287}
+         {set $songguitarrank 4}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Graveyard BBQ"}
+      }
+      "Graveyard BBQ"
+   )
    (song
       (name songs/cheatonthechurch/cheatonthechurch)
       (midi_file songs/cheatonthechurch/cheatonthechurch.mid)
@@ -275,14 +304,9 @@
       (vols
          (0.9 0.9 1.0 1.0))
       (cores
-         (-1 -1 1 1))
-      (solo
-         (riffs standard)))
-   (bank sfx/song_default)
-   (bpm 210)
+         (-1 -1 1 1)))
    (anim_tempo kTempoFast)
    (preview 71888 100000)
-   
    (quickplay
       (character nu_metal)
       (guitar gibson_lespaul)
@@ -291,7 +315,21 @@
    (name
       "Cochise")
    (artist
-      "Audioslave")
+      {do
+         {set $songalbum "Audioslave"}
+         {set $author "Harmonix"}
+         {set $songyear "2002"}
+         {set $songgenre "Rock"}
+         {set $songorigin "Guitar Hero I"}
+         {set $songduration 200126}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Audioslave"}
+      }
+      "Audioslave"
+   )
    (song
       (name songs/cochise/cochise)
       (midi_file songs/cochise/cochise.mid)
@@ -303,14 +341,9 @@
       (vols
          (0.8 0.8 0.9 0.9))
       (cores
-         (-1 -1 1 1))
-      (solo
-         (riffs standard)))
-   (bank sfx/song_default)
-   (bpm 80)
+         (-1 -1 1 1)))
    (anim_tempo kTempoMedium)
    (preview 48390 78000)
-   
    (quickplay
       (character hiphop)
       (guitar gibson_sg)
@@ -319,7 +352,21 @@
    (name
       "Cowboys from Hell")
    (artist
-      "Pantera")
+      {do
+         {set $songalbum "Cowboys from Hell"}
+         {set $author "Harmonix"}
+         {set $songyear "1990"}
+         {set $songgenre "Metal"}
+         {set $songorigin "Guitar Hero I"}
+         {set $songduration 246951}
+         {set $songguitarrank 6}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Pantera"}
+      }
+      "Pantera"
+   )
    (song
       (name songs/cowboysfromhell/cowboysfromhell)
       (midi_file songs/cowboysfromhell/cowboysfromhell.mid)
@@ -331,14 +378,9 @@
       (vols
          (0.9 0.9 0.9 0.9))
       (cores
-         (-1 -1 1 1))
-      (solo
-         (riffs standard)))
-   (bank sfx/song_default)
-   (bpm 113)
+         (-1 -1 1 1)))
    (anim_tempo kTempoMedium)
    (preview 43978 73000)
-   
    (quickplay
       (character nu_metal)
       (guitar gibson_sg)
@@ -347,7 +389,21 @@
    (name
       "Crossroads")
    (artist
-      "Cream")
+      {do
+         {set $songalbum "Wheels of Fire"}
+         {set $author "Harmonix"}
+         {set $songyear "1968"}
+         {set $songgenre "Classic Rock"}
+         {set $songorigin "Guitar Hero I"}
+         {set $songduration 259765}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Cream"}
+      }
+      "Cream"
+   )
    (song
       (name songs/crossroads/crossroads)
       (midi_file songs/crossroads/crossroads.mid)
@@ -359,14 +415,9 @@
       (vols
          (0.7 0.7 1.0 1.0))
       (cores
-         (-1 -1 1 1))
-      (solo
-         (riffs standard)))
-   (bank sfx/song_default)
-   (bpm 130)
+         (-1 -1 1 1)))
    (anim_tempo kTempoFast)
    (preview 19969 49000)
-   
    (quickplay
       (character classic)
       (guitar gibson_lespaul)
@@ -375,7 +426,21 @@
    (name
       "Decontrol")
    (artist
-      "Drist")
+      {do
+         {set $songalbum "Orchids & Ammunition"}
+         {set $author "Harmonix"}
+         {set $songyear "2005"}
+         {set $songgenre "Rock"}
+         {set $songorigin "Guitar Hero I"}
+         {set $songduration 216348}
+         {set $songguitarrank 5}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Drist"}
+      }
+      "Drist"
+   )
    (song
       (name songs/decontrol/decontrol)
       (midi_file songs/decontrol/decontrol.mid)
@@ -387,14 +452,9 @@
       (vols
          (0.9 0.9 0.9 0.9))
       (cores
-         (-1 -1 1 1))
-      (solo
-         (riffs standard)))
-   (bank sfx/song_default)
-   (bpm 210)
+         (-1 -1 1 1)))
    (anim_tempo kTempoFast)
    (preview 50642 80362)
-   
    (quickplay
       (character nu_metal)
       (guitar gibson_sg)
@@ -403,7 +463,21 @@
    (name
       "Eureka, I've Found Love")
    (artist
-      "The Upper Crust")
+      {do
+         {set $songalbum "Once More into the Breeches"}
+         {set $author "Harmonix"}
+         {set $songyear "2001"}
+         {set $songgenre "Rock"}
+         {set $songorigin "Guitar Hero I"}
+         {set $songduration 182737}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "The Upper Crust"}
+      }
+      "The Upper Crust"
+   )
    (song
       (name songs/eureka/eureka)
       (midi_file songs/eureka/eureka.mid)
@@ -415,14 +489,9 @@
       (vols
          (1.0 1.0 1.0 1.0))
       (cores
-         (-1 -1 1 1))
-      (solo
-         (riffs standard)))
-   (bank sfx/song_default)
-   (bpm 147)
+         (-1 -1 1 1)))
    (anim_tempo kTempoFast)
    (preview 32507 62972)
-   
    (quickplay
       (character classic)
       (guitar gibson_sg)
@@ -431,7 +500,21 @@
    (name
       "Even Rats")
    (artist
-      "The Slip")
+      {do
+         {set $songalbum "Eisenhower"}
+         {set $author "Harmonix"}
+         {set $songyear "2006"}
+         {set $songgenre "Rock"}
+         {set $songorigin "Guitar Hero I"}
+         {set $songduration 356711}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "The Slip"}
+      }
+      "The Slip"
+   )
    (song
       (name songs/evenrats/evenrats)
       (midi_file songs/evenrats/evenrats.mid)
@@ -443,21 +526,31 @@
       (vols
          (0.9 0.9 0.9 0.9))
       (cores
-         (-1 -1 1 1))
-      (solo
-         (riffs standard)))
-   (bank sfx/song_default)
-   (bpm 140)
+         (-1 -1 1 1)))
    (anim_tempo kTempoFast)
    (preview 300633 335682)
-   
    (quickplay
       (character alterna)
       (guitar gibson_lespaul)
       (venue fest)))
 (farewellmyth
    (name "Farewell Myth")
-   (artist "Made in Mexico")
+   (artist
+      {do
+         {set $songalbum "Zodiac Zoo"}
+         {set $author "Harmonix, AddyMills"}
+         {set $songyear "2005"}
+         {set $songgenre "Rock"}
+         {set $songorigin "Guitar Hero I"}
+         {set $songduration 272961}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Made in Mexico"}
+      }
+      "Made in Mexico"
+   )
    (caption performed_by)
    (song 
      (name        songs/farewellmyth/farewellmyth)
@@ -472,51 +565,26 @@
    (quickplay
       (character_outfit rockabill2)
       (guitar explorer)
-      (venue theatre))
-      (practice_speeds
-      (100 85 65 50))
-   (song_practice_1
-      (name songs/farewellmyth/farewellmyth_p85)
-      (tracks
-         ((bass 0)
-            (guitar 1)))
-      (pans
-         (0.0 0.0))
-      (vols
-         (0.0 0.0))
-      (cores
-         (-1 -1))
-      (midi_file songs/farewellmyth/farewellmyth.mid))
-   (song_practice_2
-      (name songs/farewellmyth/farewellmyth_p65)
-      (tracks
-         ((bass 0)
-            (guitar 1)))
-      (pans
-         (0.0 0.0))
-      (vols
-         (0.0 0.0))
-      (cores
-         (-1 -1))
-      (midi_file songs/farewellmyth/farewellmyth.mid))
-   (song_practice_3
-      (name songs/farewellmyth/farewellmyth_p50)
-      (tracks
-         ((bass 0)
-            (guitar 1)))
-      (pans
-         (0.0 0.0))
-      (vols
-         (0.0 0.0))
-      (cores
-         (-1 -1))
-      (midi_file songs/farewellmyth/farewellmyth.mid))
-)
+      (venue theatre)))
 (fatlip
    (name
       "Fat Lip")
    (artist
-      "Sum41")
+      {do
+         {set $songalbum "All Killer No Filler"}
+         {set $author "Harmonix"}
+         {set $songyear "2001"}
+         {set $songgenre "Punk"}
+         {set $songorigin "Guitar Hero I"}
+         {set $songduration 188335}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Sum 41"}
+      }
+      "Sum 41"
+   )
    (song
       (name songs/fatlip/fatlip)
       (midi_file songs/fatlip/fatlip.mid)
@@ -528,14 +596,9 @@
       (vols
          (0.8 0.8 0.8 0.8))
       (cores
-         (-1 -1 1 1))
-      (solo
-         (riffs standard)))
-   (bank sfx/song_default)
-   (bpm 98)
+         (-1 -1 1 1)))
    (anim_tempo kTempoMedium)
    (preview 18065 39811)
-   
    (quickplay
       (character punk)
       (guitar gibson_flying_v)
@@ -544,7 +607,21 @@
    (name
       "Fire It Up")
    (artist
-      "Black Label Society")
+      {do
+         {set $songalbum "Mafia"}
+         {set $author "Harmonix"}
+         {set $songyear "2005"}
+         {set $songgenre "Metal"}
+         {set $songorigin "Guitar Hero I"}
+         {set $songduration 254596}
+         {set $songguitarrank 4}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Black Label Society"}
+      }
+      "Black Label Society"
+   )
    (song
       (name songs/fireitup/fireitup)
       (midi_file songs/fireitup/fireitup.mid)
@@ -556,14 +633,9 @@
       (vols
          (0.9 0.9 0.7 0.7))
       (cores
-         (-1 -1 1 1))
-      (solo
-         (riffs standard)))
-   (bank sfx/song_default)
-   (bpm 92)
+         (-1 -1 1 1)))
    (anim_tempo kTempoMedium)
    (preview 143777 170357)
-   
    (quickplay
       (character metal)
       (guitar gibson_lespaul)
@@ -571,9 +643,23 @@
       (venue arena)))
 (flyonthewall
    (name
-      "Fly On The Wall")
+      "Fly on the Wall")
    (artist
-      "Din")
+      {do
+         {set $songalbum "Longhair Music"}
+         {set $author "Harmonix"}
+         {set $songyear "2005"}
+         {set $songgenre "Rock"}
+         {set $songorigin "Guitar Hero I"}
+         {set $songduration 182784}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Din"}
+      }
+      "Din"
+   )
    (song
       (name songs/flyonthewall/flyonthewall)
       (midi_file songs/flyonthewall/flyonthewall.mid)
@@ -585,14 +671,9 @@
       (vols
          (0.9 0.9 0.9 0.9))
       (cores
-         (-1 -1 1 1))
-      (solo
-         (riffs standard)))
-   (bank sfx/song_default)
-   (bpm 147)
+         (-1 -1 1 1)))
    (anim_tempo kTempoFast)
    (preview 21083 52105)
-   
    (quickplay
       (character classic)
       (guitar gibson_flying_v)
@@ -601,7 +682,21 @@
    (name
       "Frankenstein")
    (artist
-      "The Edgar Winter Group")
+      {do
+         {set $songalbum "They Come Out at Night"}
+         {set $author "Harmonix"}
+         {set $songyear "1972"}
+         {set $songgenre "Classic Rock"}
+         {set $songorigin "Guitar Hero I"}
+         {set $songduration 256960}
+         {set $songguitarrank 5}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "The Edgar Winter Group"}
+      }
+      "The Edgar Winter Group"
+   )
    (song
       (name songs/frankenstein/frankenstein)
       (tracks
@@ -617,50 +712,104 @@
       (midi_file songs/frankenstein/frankenstein.mid))
    (anim_tempo kTempoMedium)
    (preview 26000 56000)
+   (band metal_bass metal_drummer metal_keyboard)
    (quickplay
       (character_outfit rock2)
       (guitar lespaul)
-      (venue theatre))
-   (song_practice_1
-      (name songs/frankenstein/frankenstein_p85)
-      (tracks
-         ((guitar 0)
-            (bass 1)))
+      (venue theatre)))
+(getready2rokk
+   (name
+      "Get Ready 2 Rokk")
+   (artist
+      {do
+         {set $songalbum "Freezepop Forever"}
+         {set $author "Harmonix"}
+         {set $songyear "2000"}
+         {set $songgenre "Pop/Dance/Electronic"}
+         {set $songorigin "Guitar Hero I"}
+         {set $songduration 183483}
+         {set $songguitarrank 5}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Freezepop"}
+      }
+      "Freezepop"
+   )
+   (song
+      (name songs/getready2rokk/getready2rokk)
+      (tracks ((guitar (2 3))))
+      (midi_file songs/getready2rokk/getready2rokk.mid)
+      (slip_tracks
+         ((2 3)))
       (pans
-         (0.0 0.0))
+         (-1.0 1.0 -1.0 1.0))
       (vols
-         (0.0 0.0))
+         (1.0 1.0 0.8 0.8))
       (cores
-         (-1 -1))
-      (midi_file songs/frankenstein/frankenstein.mid))
-   (song_practice_2
-      (name songs/frankenstein/frankenstein_p65)
-      (tracks
-         ((guitar 0)
-            (bass 1)))
+         (-1 -1 1 1)))
+   (band female_singer metal_bass metal_drummer)
+   (anim_tempo kTempoFast)
+   (preview 59164 89278)
+   (quickplay
+      (character punk)
+      (guitar gibson_flying_v)
+      (venue arena)))
+(godzilla
+   (name
+      "Godzilla")
+   (artist
+      {do
+         {set $songalbum "Spectres"}
+         {set $author "Harmonix"}
+         {set $songyear "1977"}
+         {set $songgenre "Classic Rock"}
+         {set $songorigin "Guitar Hero I"}
+         {set $songduration 229347}
+         {set $songguitarrank 4}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Blue Öyster Cult"}
+      }
+      "Blue Öyster Cult"
+   )
+   (song
+      (name songs/godzilla/godzilla)
+      (midi_file songs/godzilla/godzilla.mid)
+      (tracks ((guitar (2 3))))
+      (slip_tracks
+         ((2 3)))
       (pans
-         (0.0 0.0))
+         (-1.0 1.0 -1.0 1.0))
       (vols
-         (0.0 0.0))
+         (0.9 0.9 0.9 0.9))
       (cores
-         (-1 -1))
-      (midi_file songs/frankenstein/frankenstein.mid))
-   (song_practice_3
-      (name songs/frankenstein/frankenstein_p50)
-      (tracks
-         ((guitar 0)
-            (bass 1)))
-      (pans
-         (0.0 0.0))
-      (vols
-         (0.0 0.0))
-      (cores
-         (-1 -1))
-      (midi_file songs/frankenstein/frankenstein.mid))
-   (band metal_bass metal_drummer metal_keyboard))
+         (-1 -1 1 1)))
+   (anim_tempo kTempoMedium)
+   (preview 54241 84000)
+   (quickplay
+      (character alterna)
+      (guitar gibson_sg)
+      (venue arena)))
 (graveyardshift
    (name "Graveyard Shift")
-   (artist "Gurney")
+   (artist
+      {do
+         {set $songalbum "Guitar Hero I"}
+         {set $author "Harmonix, mariteaux"}
+         {set $songyear "2005"}
+         {set $songgenre "Rock"}
+         {set $songorigin "Guitar Hero I"}
+         {set $songduration 101763}
+         {set $songguitarrank 2}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Gurney"}
+      }
+      "Gurney"
+   )
    (caption performed_by)
    (song
       (name songs/graveyardshift/graveyardshift)
@@ -691,7 +840,21 @@
    (name
       "Guitar Hero")
    (artist
-      "Monkey Steals The Peach")
+      {do
+         {set $songalbum "Guitar Hero I"}
+         {set $author "Harmonix"}
+         {set $songyear "2005"}
+         {set $songgenre "Rock"}
+         {set $songorigin "Guitar Hero I"}
+         {set $songduration 168001}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Monkey Steals the Peach"}
+      }
+      "Monkey Steals the Peach"
+   )
    (song
       (name songs/guitarhero/guitarhero)
       (midi_file songs/guitarhero/guitarhero.mid)
@@ -703,14 +866,9 @@
       (vols
          (0.9 0.9 0.9 0.9))
       (cores
-         (-1 -1 1 1))
-      (solo
-         (riffs standard)))
-   (bank sfx/song_default)
-   (bpm 180)
+         (-1 -1 1 1)))
    (anim_tempo kTempoFast)
    (preview 49179 80000)
-   
    (quickplay
       (character punk)
       (guitar gibson_sg)
@@ -719,7 +877,21 @@
    (name
       "Heart Full of Black")
    (artist
-      "Burning Brides")
+      {do
+         {set $songalbum "Leave No Ashes"}
+         {set $author "Harmonix"}
+         {set $songyear "2004"}
+         {set $songgenre "Rock"}
+         {set $songorigin "Guitar Hero I"}
+         {set $songduration 200930}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Burning Brides"}
+      }
+      "Burning Brides"
+   )
    (song
       (name songs/heartfullofblack/heartfullofblack)
       (midi_file songs/heartfullofblack/heartfullofblack.mid)
@@ -731,14 +903,9 @@
       (vols
          (0.9 0.9 0.8 0.8))
       (cores
-         (-1 -1 1 1))
-      (solo
-         (riffs standard)))
-   (bank sfx/song_default)
-   (bpm 100)
+         (-1 -1 1 1)))
    (anim_tempo kTempoMedium)
    (preview 47159 77000)
-   
    (quickplay
       (character metal)
       (guitar gibson_lespaul)
@@ -747,7 +914,21 @@
    (name
       "Hey")
    (artist
-      "Honest Bob and the Factory-to-Dealer Incentives")
+      {do
+         {set $songalbum "Second & Eighteen"}
+         {set $author "Harmonix"}
+         {set $songyear "2004"}
+         {set $songgenre "Rock"}
+         {set $songorigin "Guitar Hero I"}
+         {set $songduration 179936}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Honest Bob & the Factory-to-Dealer Incentives"}
+      }
+      "Honest Bob & the Factory-to-Dealer Incentives"
+   )
    (song
       (name songs/hey/hey)
       (midi_file songs/hey/hey.mid)
@@ -759,14 +940,9 @@
       (vols
          (0.9 0.9 1.0 1.0))
       (cores
-         (-1 -1 1 1))
-      (solo
-         (riffs standard)))
-   (bank sfx/song_default)
-   (bpm 131)
+         (-1 -1 1 1)))
    (anim_tempo kTempoFast)
    (preview 121301 153137)
-   
    (quickplay
       (character classic)
       (guitar gibson_lespaul)
@@ -775,7 +951,21 @@
    (name
       "Hey You")
    (artist
-      "The Exies")
+      {do
+         {set $songalbum "Head for the Door"}
+         {set $author "Harmonix"}
+         {set $songyear "2004"}
+         {set $songgenre "Alternative"}
+         {set $songorigin "Guitar Hero I"}
+         {set $songduration 238056}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "The Exies"}
+      }
+      "The Exies"
+   )
    (song
       (name songs/heyyou/heyyou)
       (tracks
@@ -794,48 +984,26 @@
    (quickplay
       (character_outfit alterna1)
       (guitar sg)
-      (venue fest))
-   (song_practice_1
-      (name songs/heyyou/heyyou_p85)
-      (tracks
-         ((guitar 0)
-            (bass 1)))
-      (pans
-         (0.0 0.0))
-      (vols
-         (0.0 0.0))
-      (cores
-         (-1 -1))
-      (midi_file songs/heyyou/heyyou.mid))
-   (song_practice_2
-      (name songs/heyyou/heyyou_p65)
-      (tracks
-         ((guitar 0)
-            (bass 1)))
-      (pans
-         (0.0 0.0))
-      (vols
-         (0.0 0.0))
-      (cores
-         (-1 -1))
-      (midi_file songs/heyyou/heyyou.mid))
-   (song_practice_3
-      (name songs/heyyou/heyyou_p50)
-      (tracks
-         ((guitar 0)
-            (bass 1)))
-      (pans
-         (0.0 0.0))
-      (vols
-         (0.0 0.0))
-      (cores
-         (-1 -1))
-      (midi_file songs/heyyou/heyyou.mid)))
+      (venue fest)))
 (higherground
    (name
       "Higher Ground")
    (artist
-      "Red Hot Chili Peppers")
+      {do
+         {set $songalbum "Mother's Milk"}
+         {set $author "Harmonix"}
+         {set $songyear "1989"}
+         {set $songgenre "Funk"}
+         {set $songorigin "Guitar Hero I"}
+         {set $songduration 205537}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Red Hot Chili Peppers"}
+      }
+      "Red Hot Chili Peppers"
+   )
    (song
       (name songs/higherground/higherground)
       (tracks
@@ -854,48 +1022,26 @@
    (quickplay
       (character_outfit alterna1)
       (guitar sg)
-      (venue battle))
-   (song_practice_1
-      (name songs/higherground/higherground_p85)
-      (tracks
-         ((guitar 0)
-            (bass 1)))
-      (pans
-         (0.0 0.0))
-      (vols
-         (0.0 0.0))
-      (cores
-         (-1 -1))
-      (midi_file songs/higherground/higherground.mid))
-   (song_practice_2
-      (name songs/higherground/higherground_p65)
-      (tracks
-         ((guitar 0)
-            (bass 1)))
-      (pans
-         (0.0 0.0))
-      (vols
-         (0.0 0.0))
-      (cores
-         (-1 -1))
-      (midi_file songs/higherground/higherground.mid))
-   (song_practice_3
-      (name songs/higherground/higherground_p50)
-      (tracks
-         ((guitar 0)
-            (bass 1)))
-      (pans
-         (0.0 0.0))
-      (vols
-         (0.0 0.0))
-      (cores
-         (-1 -1))
-      (midi_file songs/higherground/higherground.mid)))
+      (venue battle)))
 (iloverockandroll
    (name
       "I Love Rock & Roll")
    (artist
-      "Joan Jett & the Blackhearts")
+      {do
+         {set $songalbum "I Love Rock & Roll"}
+         {set $author "Harmonix"}
+         {set $songyear "1981"}
+         {set $songgenre "Punk"}
+         {set $songorigin "Guitar Hero I"}
+         {set $songduration 182431}
+         {set $songguitarrank 1}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Joan Jett & the Blackhearts"}
+      }
+      "Joan Jett & the Blackhearts"
+   )
    (song
       (name songs/iloverockandroll/iloverockandroll)
       (midi_file songs/iloverockandroll/iloverockandroll.mid)
@@ -907,15 +1053,10 @@
       (vols
          (0.9 0.9 0.9 0.9))
       (cores
-         (-1 -1 1 1))
-      (solo
-         (riffs standard)))
+         (-1 -1 1 1)))
    (band female_singer metal_bass metal_drummer)
-   (bank sfx/song_default)
-   (bpm 95)
    (anim_tempo kTempoMedium)
    (preview 43885 73000)
-   
    (quickplay
       (character alterna)
       (guitar gibson_lespaul)
@@ -924,7 +1065,21 @@
    (name
       "Infected")
    (artist
-      "Bad Religion")
+      {do
+         {set $songalbum "Stranger than Fiction"}
+         {set $author "Harmonix"}
+         {set $songyear "1994"}
+         {set $songgenre "Punk"}
+         {set $songorigin "Guitar Hero I"}
+         {set $songduration 239472}
+         {set $songguitarrank 1}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Bad Religion"}
+      }
+      "Bad Religion"
+   )
    (song
       (name songs/infected/infected)
       (tracks
@@ -943,48 +1098,26 @@
    (quickplay
       (character_outfit punk1)
       (guitar sg)
-      (venue fest))
-   (song_practice_1
-      (name songs/infected/infected_p85)
-      (tracks
-         ((guitar 0)
-            (bass 1)))
-      (pans
-         (0.0 0.0))
-      (vols
-         (0.0 0.0))
-      (cores
-         (-1 -1))
-      (midi_file songs/infected/infected.mid))
-   (song_practice_2
-      (name songs/infected/infected_p65)
-      (tracks
-         ((guitar 0)
-            (bass 1)))
-      (pans
-         (0.0 0.0))
-      (vols
-         (0.0 0.0))
-      (cores
-         (-1 -1))
-      (midi_file songs/infected/infected.mid))
-   (song_practice_3
-      (name songs/infected/infected_p50)
-      (tracks
-         ((guitar 0)
-            (bass 1)))
-      (pans
-         (0.0 0.0))
-      (vols
-         (0.0 0.0))
-      (cores
-         (-1 -1))
-      (midi_file songs/infected/infected.mid)))
+      (venue fest)))
 (ironman
    (name
       "Iron Man")
    (artist
-      "Black Sabbath")
+      {do
+         {set $songalbum "Paranoid"}
+         {set $author "Harmonix"}
+         {set $songyear "1970"}
+         {set $songgenre "Metal"}
+         {set $songorigin "Guitar Hero I"}
+         {set $songduration 250951}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Black Sabbath"}
+      }
+      "Black Sabbath"
+   )
    (song
       (name songs/ironman/ironman)
       (midi_file songs/ironman/ironman.mid)
@@ -996,14 +1129,9 @@
       (vols
          (0.9 0.9 0.8 0.8))
       (cores
-         (-1 -1 1 1))
-      (solo
-         (riffs standard)))
-   (bank sfx/song_default)
-   (bpm 75)
+         (-1 -1 1 1)))
    (anim_tempo kTempoMedium)
    (preview 39102 70000)
-   
    (quickplay
       (character metal)
       (guitar gibson_sg)
@@ -1012,7 +1140,21 @@
    (name
       "I Wanna Be Sedated")
    (artist
-      "The Ramones")
+      {do
+         {set $songalbum "Road to Ruin"}
+         {set $author "Harmonix"}
+         {set $songyear "1978"}
+         {set $songgenre "Punk"}
+         {set $songorigin "Guitar Hero I"}
+         {set $songduration 175165}
+         {set $songguitarrank 2}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "The Ramones"}
+      }
+      "The Ramones"
+   )
    (song
       (name songs/iwannabesedated/iwannabesedated)
       (tracks
@@ -1031,48 +1173,26 @@
    (quickplay
       (character_outfit punk1)
       (guitar lespaul)
-      (venue battle))
-   (song_practice_1
-      (name songs/iwannabesedated/iwannabesedated_p85)
-      (tracks
-         ((guitar 0)
-            (bass 1)))
-      (pans
-         (0.0 0.0))
-      (vols
-         (0.0 0.0))
-      (cores
-         (-1 -1))
-      (midi_file songs/iwannabesedated/iwannabesedated.mid))
-   (song_practice_2
-      (name songs/iwannabesedated/iwannabesedated_p65)
-      (tracks
-         ((guitar 0)
-            (bass 1)))
-      (pans
-         (0.0 0.0))
-      (vols
-         (0.0 0.0))
-      (cores
-         (-1 -1))
-      (midi_file songs/iwannabesedated/iwannabesedated.mid))
-   (song_practice_3
-      (name songs/iwannabesedated/iwannabesedated_p50)
-      (tracks
-         ((guitar 0)
-            (bass 1)))
-      (pans
-         (0.0 0.0))
-      (vols
-         (0.0 0.0))
-      (cores
-         (-1 -1))
-      (midi_file songs/iwannabesedated/iwannabesedated.mid)))
+      (venue battle)))
 (killerqueen
    (name
       "Killer Queen")
    (artist
-      "Queen")
+      {do
+         {set $songalbum "Sheer Heart Attack"}
+         {set $author "Harmonix"}
+         {set $songyear "1974"}
+         {set $songgenre "Classic Rock"}
+         {set $songorigin "Guitar Hero I"}
+         {set $songduration 197649}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Queen"}
+      }
+      "Queen"
+   )
    (song
       (name songs/killerqueen/killerqueen)
       (tracks
@@ -1091,105 +1211,26 @@
    (quickplay
       (character_outfit classic)
       (guitar lespaul)
-      (venue theatre))
-   (song_practice_1
-      (name songs/killerqueen/killerqueen_p85)
-      (tracks
-         ((guitar 0)
-            (bass 1)))
-      (pans
-         (0.0 0.0))
-      (vols
-         (0.0 0.0))
-      (cores
-         (-1 -1))
-      (midi_file songs/killerqueen/killerqueen.mid))
-   (song_practice_2
-      (name songs/killerqueen/killerqueen_p65)
-      (tracks
-         ((guitar 0)
-            (bass 1)))
-      (pans
-         (0.0 0.0))
-      (vols
-         (0.0 0.0))
-      (cores
-         (-1 -1))
-      (midi_file songs/killerqueen/killerqueen.mid))
-   (song_practice_3
-      (name songs/killerqueen/killerqueen_p50)
-      (tracks
-         ((guitar 0)
-            (bass 1)))
-      (pans
-         (0.0 0.0))
-      (vols
-         (0.0 0.0))
-      (cores
-         (-1 -1))
-      (midi_file songs/killerqueen/killerqueen.mid)))
-
-(getready2rokk
-   (name
-      "Get Ready 2 Rokk")
-   (artist
-      "Freezepop")
-   (song
-      (name songs/getready2rokk/getready2rokk)
-      (tracks ((guitar (2 3))))
-      (midi_file songs/getready2rokk/getready2rokk.mid)
-      (slip_tracks
-         ((2 3)))
-      (pans
-         (-1.0 1.0 -1.0 1.0))
-      (vols
-         (1.0 1.0 0.8 0.8))
-      (cores
-         (-1 -1 1 1))
-      (solo
-         (riffs standard)))
-   (band female_singer metal_bass metal_drummer)
-   (bank sfx/song_default)
-   (bpm 190)
-   (anim_tempo kTempoFast)
-   (preview 59164 89278)
-   (quickplay
-      (character punk)
-      (guitar gibson_flying_v)
-      (venue arena)))
-(godzilla
-   (name
-      "Godzilla")
-   (artist
-      "Blue Oyster Cult")
-   (song
-      (name songs/godzilla/godzilla)
-      (midi_file songs/godzilla/godzilla.mid)
-      (tracks ((guitar (2 3))))
-      (slip_tracks
-         ((2 3)))
-      (pans
-         (-1.0 1.0 -1.0 1.0))
-      (vols
-         (0.9 0.9 0.9 0.9))
-      (cores
-         (-1 -1 1 1))
-      (solo
-         (riffs standard)))
-   (bank sfx/song_default)
-   (bpm 91)
-   (anim_tempo kTempoMedium)
-   (preview 54241 84000)
-   
-   (quickplay
-      (character alterna)
-      (guitar gibson_sg)
-      (venue arena)))
+      (venue theatre)))
 (morethanafeeling
    (name
-      "More Than A Feeling")
+      "More Than a Feeling")
    (artist
-      "Boston")
+      {do
+         {set $songalbum "Boston"}
+         {set $author "Harmonix"}
+         {set $songyear "1976"}
+         {set $songgenre "Classic Rock"}
+         {set $songorigin "Guitar Hero I"}
+         {set $songduration 322730}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Boston"}
+      }
+      "Boston"
+   )
    (song
       (name songs/morethanafeeling/morethanafeeling)
       (midi_file songs/morethanafeeling/morethanafeeling.mid)
@@ -1201,14 +1242,9 @@
       (vols
          (0.9 0.9 0.9 0.9))
       (cores
-         (-1 -1 1 1))
-      (solo
-         (riffs more)))
-   (bank sfx/song_default)
-   (bpm 109)
+         (-1 -1 1 1)))
    (anim_tempo kTempoMedium)
    (preview 52500 82000)
-   
    (quickplay
       (character classic)
       (guitar gibson_lespaul)
@@ -1217,7 +1253,21 @@
    (name
       "No One Knows")
    (artist
-      "Queens of the Stone Age")
+      {do
+         {set $songalbum "Songs for the Deaf"}
+         {set $author "Harmonix, El Fish"}
+         {set $songyear "2002"}
+         {set $songgenre "Alternative"}
+         {set $songorigin "Guitar Hero I"}
+         {set $songduration 272806}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Queens of the Stone Age"}
+      }
+      "Queens of the Stone Age"
+   )
    (song
       (name songs/nooneknows/nooneknows)
       (midi_file songs/nooneknows/nooneknows.mid)
@@ -1230,14 +1280,9 @@
       (vols
          (0.9 0.9 0.9 1.0 1.0))
       (cores
-         (-1 -1 -1 1 1))
-      (solo
-         (riffs standard)))
-   (bank sfx/song_default)
-   (bpm 130)
+         (-1 -1 -1 1 1)))
    (anim_tempo kTempoFast)
    (preview 23498 58316)
-   
    (quickplay
       (character metal)
       (guitar gibson_lespaul)
@@ -1246,7 +1291,21 @@
    (name
       "Sail Your Ship By")
    (artist
-      "Count Zero")
+      {do
+         {set $songalbum "Little Minds"}
+         {set $author "Harmonix"}
+         {set $songyear "2005"}
+         {set $songgenre "Rock"}
+         {set $songorigin "Guitar Hero I"}
+         {set $songduration 268175}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Count Zero"}
+      }
+      "Count Zero"
+   )
    (song
       (name songs/sailyourshipby/sailyourshipby)
       (midi_file songs/sailyourshipby/sailyourshipby.mid)
@@ -1258,14 +1317,9 @@
       (vols
          (0.9 0.9 0.8 0.8))
       (cores
-         (-1 -1 1 1))
-      (solo
-         (riffs standard)))
-   (bank sfx/song_default)
-   (bpm 85)
+         (-1 -1 1 1)))
    (anim_tempo kTempoMedium)
    (preview 43281 75000)
-   
    (quickplay
       (character alterna)
       (guitar gibson_flying_v)
@@ -1274,7 +1328,21 @@
    (name
       "Sharp Dressed Man")
    (artist
-      "ZZ Top")
+      {do
+         {set $songalbum "Eliminator"}
+         {set $author "Harmonix"}
+         {set $songyear "1983"}
+         {set $songgenre "Rock"}
+         {set $songorigin "Guitar Hero I"}
+         {set $songduration 280775}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "ZZ Top"}
+      }
+      "ZZ Top"
+   )
    (song
       (name songs/sharpdressedman/sharpdressedman)
       (midi_file songs/sharpdressedman/sharpdressedman.mid)
@@ -1286,14 +1354,9 @@
       (vols
          (0.9 0.9 0.9 0.9))
       (cores
-         (-1 -1 1 1))
-      (solo
-         (riffs standard)))
-   (bank sfx/song_default)
-   (bpm 124)
+         (-1 -1 1 1)))
    (anim_tempo kTempoMedium)
    (preview 27028 59300)
-   
    (quickplay
       (character hiphop)
       (guitar gibson_flying_v)
@@ -1302,7 +1365,21 @@
    (name
       "Smoke on the Water")
    (artist
-      "Deep Purple")
+      {do
+         {set $songalbum "Machine Head"}
+         {set $author "Harmonix"}
+         {set $songyear "1972"}
+         {set $songgenre "Classic Rock"}
+         {set $songorigin "Guitar Hero I"}
+         {set $songduration 361400}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Deep Purple"}
+      }
+      "Deep Purple"
+   )
    (song
       (name songs/smokeonthewater/smokeonthewater)
       (tracks
@@ -1321,46 +1398,25 @@
    (quickplay
       (character_outfit rock2)
       (guitar sg)
-      (venue battle))
-   (song_practice_1
-      (name songs/smokeonthewater/smokeonthewater_p85)
-      (tracks
-         ((guitar 0)
-            (bass 1)))
-      (pans
-         (0.0 0.0))
-      (vols
-         (0.0 0.0))
-      (cores
-         (-1 -1))
-      (midi_file songs/smokeonthewater/smokeonthewater.mid))
-   (song_practice_2
-      (name songs/smokeonthewater/smokeonthewater_p65)
-      (tracks
-         ((guitar 0)
-            (bass 1)))
-      (pans
-         (0.0 0.0))
-      (vols
-         (0.0 0.0))
-      (cores
-         (-1 -1))
-      (midi_file songs/smokeonthewater/smokeonthewater.mid))
-   (song_practice_3
-      (name songs/smokeonthewater/smokeonthewater_p50)
-      (tracks
-         ((guitar 0)
-            (bass 1)))
-      (pans
-         (0.0 0.0))
-      (vols
-         (0.0 0.0))
-      (cores
-         (-1 -1))
-      (midi_file songs/smokeonthewater/smokeonthewater.mid)))
+      (venue battle)))
 (spanishcastlemagic
    (name "Spanish Castle Magic")
-   (artist "Jimi Hendrix")
+   (artist
+      {do
+         {set $songalbum "Axis: Bold as Love"}
+         {set $author "Harmonix"}
+         {set $songyear "1967"}
+         {set $songgenre "Classic Rock"}
+         {set $songorigin "Guitar Hero I"}
+         {set $songduration 238056}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "The Jimi Hendrix Experience"}
+      }
+      "The Jimi Hendrix Experience"
+   )
    (song
       (name songs/spanishcastlemagic/spanishcastlemagic)
       (tracks
@@ -1390,7 +1446,21 @@
    (name
       "Stellar")
    (artist
-      "Incubus")
+      {do
+         {set $songalbum "Make Yourself"}
+         {set $author "Harmonix"}
+         {set $songyear "1999"}
+         {set $songgenre "Alternative"}
+         {set $songorigin "Guitar Hero I"}
+         {set $songduration 212280}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Incubus"}
+      }
+      "Incubus"
+   )
    (song
       (name songs/stellar/stellar)
       (tracks
@@ -1409,48 +1479,26 @@
    (quickplay
       (character_outfit alterna1)
       (guitar sg)
-      (venue theatre))
-   (song_practice_1
-      (name songs/stellar/stellar_p85)
-      (tracks
-         ((guitar 0)
-            (bass 1)))
-      (pans
-         (0.0 0.0))
-      (vols
-         (0.0 0.0))
-      (cores
-         (-1 -1))
-      (midi_file songs/stellar/stellar.mid))
-   (song_practice_2
-      (name songs/stellar/stellar_p65)
-      (tracks
-         ((guitar 0)
-            (bass 1)))
-      (pans
-         (0.0 0.0))
-      (vols
-         (0.0 0.0))
-      (cores
-         (-1 -1))
-      (midi_file songs/stellar/stellar.mid))
-   (song_practice_3
-      (name songs/stellar/stellar_p50)
-      (tracks
-         ((guitar 0)
-            (bass 1)))
-      (pans
-         (0.0 0.0))
-      (vols
-         (0.0 0.0))
-      (cores
-         (-1 -1))
-      (midi_file songs/stellar/stellar.mid)))
+      (venue theatre)))
 (storyofmylove
    (name
       "Story of My Love")
    (artist
-      "The Model Sons")
+      {do
+         {set $songalbum "Story of My Love"}
+         {set $author "Harmonix"}
+         {set $songyear "2004"}
+         {set $songgenre "Rock"}
+         {set $songorigin "Guitar Hero I"}
+         {set $songduration 215556}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "The Model Sons"}
+      }
+      "The Model Sons"
+   )
    (song
       (name songs/storyofmylove/storyofmylove)
       (midi_file songs/storyofmylove/storyofmylove.mid)
@@ -1462,23 +1510,32 @@
       (vols
          (0.8 0.8 1.0 1.0))
       (cores
-         (-1 -1 1 1))
-      (solo
-         (riffs standard)))
-   (bank sfx/song_default)
-   (bpm 162)
+         (-1 -1 1 1)))
    (anim_tempo kTempoFast)
    (preview 44653 76000)
-   
    (quickplay
       (character metal)
       (guitar gibson_lespaul)
       (venue big_club)))
 (symphofdestruction
    (name
-      "Symphony Of Destruction")
+      "Symphony of Destruction")
    (artist
-      "Megadeth")
+      {do
+         {set $songalbum "Countdown to Extinction"}
+         {set $author "Harmonix"}
+         {set $songyear "1992"}
+         {set $songgenre "Metal"}
+         {set $songorigin "Guitar Hero I"}
+         {set $songduration 236633}
+         {set $songguitarrank 4}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Megadeth"}
+      }
+      "Megadeth"
+   )
    (song
       (name songs/symphofdestruction/symphofdestruction)
 ; gh1 dtas must have two lines edited in order to function in gh2 code.
@@ -1493,12 +1550,7 @@
       (vols
          (0.9 0.9 1.0 1.0))
       (cores
-         (-1 -1 1 1))
-      (solo
-         (riffs symph))
-   )
-   (bank sfx/song_default)
-   (bpm 140)
+         (-1 -1 1 1)))
    (anim_tempo kTempoFast)
    (preview 51548 81000)
 ;   (midi_file songs/symphofdestruction/symphofdestruction.mid)
@@ -1511,7 +1563,21 @@
    (name
       "Take it Off")
    (artist
-      "The Donnas")
+      {do
+         {set $songalbum "Spend the Night"}
+         {set $author "Harmonix"}
+         {set $songyear "2002"}
+         {set $songgenre "Rock"}
+         {set $songorigin "Guitar Hero I"}
+         {set $songduration 168182}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "The Donnas"}
+      }
+      "The Donnas"
+   )
    (song
       (name songs/takeitoff/takeitoff)
       (tracks
@@ -1527,52 +1593,30 @@
       (midi_file songs/takeitoff/takeitoff.mid))
    (anim_tempo kTempoMedium)
    (preview 38823 65000)
+   (band metal_bass metal_drummer female_singer)
    (quickplay
       (character_outfit alterna1)
       (guitar sg)
-      (venue battle))
-   (song_practice_1
-      (name songs/takeitoff/takeitoff_p85)
-      (tracks
-         ((guitar 0)
-            (bass 1)))
-      (pans
-         (0.0 0.0))
-      (vols
-         (0.0 0.0))
-      (cores
-         (-1 -1))
-      (midi_file songs/takeitoff/takeitoff.mid))
-   (song_practice_2
-      (name songs/takeitoff/takeitoff_p65)
-      (tracks
-         ((guitar 0)
-            (bass 1)))
-      (pans
-         (0.0 0.0))
-      (vols
-         (0.0 0.0))
-      (cores
-         (-1 -1))
-      (midi_file songs/takeitoff/takeitoff.mid))
-   (song_practice_3
-      (name songs/takeitoff/takeitoff_p50)
-      (tracks
-         ((guitar 0)
-            (bass 1)))
-      (pans
-         (0.0 0.0))
-      (vols
-         (0.0 0.0))
-      (cores
-         (-1 -1))
-      (midi_file songs/takeitoff/takeitoff.mid))
-   (band metal_bass metal_drummer female_singer))
+      (venue battle)))
 (takemeout
    (name
       "Take Me Out")
    (artist
-      "Franz Ferdinand")
+      {do
+         {set $songalbum "Franz Ferdinand"}
+         {set $author "Harmonix"}
+         {set $songyear "2004"}
+         {set $songgenre "Alternative"}
+         {set $songorigin "Guitar Hero I"}
+         {set $songduration 253007}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Franz Ferdinand"}
+      }
+      "Franz Ferdinand"
+   )
    (song
       (name songs/takemeout/takemeout)
       (midi_file songs/takemeout/takemeout.mid)
@@ -1584,14 +1628,9 @@
       (vols
          (0.9 0.9 0.8 0.8))
       (cores
-         (-1 -1 1 1))
-      (solo
-         (riffs standard)))
-   (bank sfx/song_default)
-   (bpm 100)
+         (-1 -1 1 1)))
    (anim_tempo kTempoMedium)
    (preview 83591 115356)
-   
    (quickplay
       (character alterna)
       (guitar gibson_flying_v)
@@ -1600,7 +1639,21 @@
    (name
       "Texas Flood")
    (artist
-      "Stevie Ray Vaughan")
+      {do
+         {set $songalbum "Texas Flood"}
+         {set $author "Harmonix"}
+         {set $songyear "1983"}
+         {set $songgenre "Blues"}
+         {set $songorigin "Guitar Hero I"}
+         {set $songduration 333499}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Stevie Ray Vaughan & Double Trouble"}
+      }
+      "Stevie Ray Vaughan & Double Trouble"
+   )
    (song
       (name songs/texasflood/texasflood)
       (midi_file songs/texasflood/texasflood.mid)
@@ -1612,21 +1665,31 @@
       (vols
          (1.0 1.0 0.9 0.9))
       (cores
-         (-1 -1 1 1))
-      (solo
-         (riffs standard)))
-   (bank sfx/song_default)
-   (bpm 130)
+         (-1 -1 1 1)))
    (anim_tempo kTempoFast)
    (preview 64179 89693)
-   
    (quickplay
       (character classic)
       (guitar gibson_sg)
       (venue arena)))
 (thunderkiss65
    (name "Thunder Kiss '65")
-   (artist "White Zombie")
+   (artist
+      {do
+         {set $songalbum "La Sexorcisto: Devil Music, Vol. 1"}
+         {set $author "Harmonix, mariteaux"}
+         {set $songyear "1992"}
+         {set $songgenre "Metal"}
+         {set $songorigin "Guitar Hero I"}
+         {set $songduration 243121}
+         {set $songguitarrank 3}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "White Zombie"}
+      }
+      "White Zombie"
+   )
    (song
       (name songs/thunderkiss65/thunderkiss65)
       (tracks
@@ -1655,7 +1718,22 @@
       (venue theatre)))
 (trippolette
    (name "Trippolette")
-   (artist "Andrew Buch")
+   (artist
+      {do
+         {set $songalbum "Guitar Hero I"}
+         {set $author "Harmonix, mariteaux"}
+         {set $songyear "2005"}
+         {set $songgenre "Prog"}
+         {set $songorigin "Guitar Hero I"}
+         {set $songduration 134978}
+         {set $songguitarrank 7}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Andrew Buch"}
+      }
+      "Andrew Buch"
+   )
    (caption performed_by)
    (song
       (name songs/trippolette/trippolette)
@@ -1686,7 +1764,21 @@
    (name
       "Unsung")
    (artist
-      "Helmet")
+      {do
+         {set $songalbum "Meantime"}
+         {set $author "Harmonix, jnack"}
+         {set $songyear "1992"}
+         {set $songgenre "Metal"}
+         {set $songorigin "Guitar Hero I"}
+         {set $songduration 244334}
+         {set $songguitarrank 3}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Helmet"}
+      }
+      "Helmet"
+   )
    (song
       (name songs/unsung/unsung)
       (midi_file songs/unsung/unsung.mid)
@@ -1698,11 +1790,7 @@
       (vols
          (0.9 0.9 0.9 0.9))
       (cores
-         (-1 -1 1 1))
-      (solo
-         (riffs standard)))
-   (bank sfx/song_default)
-   (bpm 108)
+         (-1 -1 1 1)))
    (anim_tempo kTempoMedium)
    (preview 52337 87526)
    (midi_file songs/unsung/unsung.mid)
@@ -1714,7 +1802,21 @@
    (name
       "You've Got Another Thing Comin'")
    (artist
-      "Judas Priest")
+      {do
+         {set $songalbum "Screaming for Vengeance"}
+         {set $author "Harmonix"}
+         {set $songyear "1982"}
+         {set $songgenre "Metal"}
+         {set $songorigin "Guitar Hero I"}
+         {set $songduration 308092}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Judas Priest"}
+      }
+      "Judas Priest"
+   )
    (song
       (name songs/yougotanotherthingcomin/yougotanotherthingcomin)
       (tracks
@@ -1733,48 +1835,26 @@
    (quickplay
       (character_outfit metal1)
       (guitar flying_v)
-      (venue battle))
-   (song_practice_1
-      (name songs/trooper/trooper_p85)
-      (tracks
-         ((guitar 0)
-            (bass 1)))
-      (pans
-         (0.0 0.0))
-      (vols
-         (0.0 0.0))
-      (cores
-         (-1 -1))
-      (midi_file songs/trooper/trooper.mid))
-   (song_practice_2
-      (name songs/trooper/trooper_p65)
-      (tracks
-         ((guitar 0)
-            (bass 1)))
-      (pans
-         (0.0 0.0))
-      (vols
-         (0.0 0.0))
-      (cores
-         (-1 -1))
-      (midi_file songs/trooper/trooper.mid))
-   (song_practice_3
-      (name songs/trooper/trooper_p50)
-      (tracks
-         ((guitar 0)
-            (bass 1)))
-      (pans
-         (0.0 0.0))
-      (vols
-         (0.0 0.0))
-      (cores
-         (-1 -1))
-      (midi_file songs/trooper/trooper.mid)))
+      (venue battle)))
 (ziggystardust
    (name
       "Ziggy Stardust")
    (artist
-      "David Bowie")
+      {do
+         {set $songalbum "The Rise & Fall of Ziggy Stardust & the Spiders from Mars"}
+         {set $author "Harmonix, jnack"}
+         {set $songyear "1972"}
+         {set $songgenre "Glam"}
+         {set $songorigin "Guitar Hero I"}
+         {set $songduration 256657}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "David Bowie"}
+      }
+      "David Bowie"
+   )
    (song
       (name songs/ziggystardust/ziggystardust)
       (midi_file songs/ziggystardust/ziggystardust.mid)
@@ -1786,14 +1866,9 @@
       (vols
          (1.0 1.0 0.7 0.7))
       (cores
-         (-1 -1 1 1))
-      (solo
-         (riffs standard)))
-   (bank sfx/song_default)
-   (bpm 80)
+         (-1 -1 1 1)))
    (anim_tempo kTempoMedium)
    (preview 112198 142000)
-   
    (quickplay
       (character classic)
       (guitar gibson_flying_v)
