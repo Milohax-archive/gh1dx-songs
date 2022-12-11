@@ -1218,7 +1218,7 @@
    (artist
       {do
          {set $songalbum "Boston"}
-         {set $author "Harmonix"}
+         {set $author "Harmonix, raphaelgoulart"}
          {set $songyear "1976"}
          {set $songgenre "Classic Rock"}
          {set $songorigin "Guitar Hero I"}
@@ -1234,15 +1234,16 @@
    (song
       (name songs/morethanafeeling/morethanafeeling)
       (midi_file songs/morethanafeeling/morethanafeeling.mid)
-      (tracks ((guitar (2 3))))
+      (tracks ((guitar (2 3))
+                (bass (4))))
       (slip_tracks
          ((2 3)))
       (pans
-         (-1.0 1.0 -1.0 1.0))
+         (-1.0 1.0 -1.0 1.0 0))
       (vols
-         (0.9 0.9 0.9 0.9))
+         (0.9 0.9 0.9 0.9 0.9))
       (cores
-         (-1 -1 1 1)))
+         (-1 -1 1 1 1)))
    (anim_tempo kTempoMedium)
    (preview 52500 82000)
    (quickplay
@@ -1523,7 +1524,7 @@
    (artist
       {do
          {set $songalbum "Countdown to Extinction"}
-         {set $author "Harmonix"}
+         {set $author "Harmonix, raphaelgoulart"}
          {set $songyear "1992"}
          {set $songgenre "Metal"}
          {set $songorigin "Guitar Hero I"}
@@ -1541,16 +1542,17 @@
 ; gh1 dtas must have two lines edited in order to function in gh2 code.
 ; marked in this song's comments is the original gh1 script.
       ;(tracks 1)
-      (tracks ((guitar (2 3)))) ;put into guitar array
+      (tracks ((guitar (2 3))
+                (bass (4)))) ;put into guitar array
       (midi_file songs/symphofdestruction/symphofdestruction.mid) ;move midi_file into song array
       (slip_tracks
          ((2 3)))
       (pans
-         (-1.0 1.0 -1.0 1.0))
+         (-1.0 1.0 -1.0 1.0 0))
       (vols
-         (0.9 0.9 1.0 1.0))
+         (0.9 0.9 1.0 1.0 1.0))
       (cores
-         (-1 -1 1 1)))
+         (-1 -1 1 1 1)))
    (anim_tempo kTempoFast)
    (preview 51548 81000)
 ;   (midi_file songs/symphofdestruction/symphofdestruction.mid)
@@ -1604,7 +1606,7 @@
    (artist
       {do
          {set $songalbum "Franz Ferdinand"}
-         {set $author "Harmonix"}
+         {set $author "Harmonix, thardwardy"}
          {set $songyear "2004"}
          {set $songgenre "Alternative"}
          {set $songorigin "Guitar Hero I"}
@@ -1620,15 +1622,16 @@
    (song
       (name songs/takemeout/takemeout)
       (midi_file songs/takemeout/takemeout.mid)
-      (tracks ((guitar (2 3))))
+      (tracks ((guitar (2 3))
+               (bass (4))))
       (slip_tracks
          ((2 3)))
       (pans
-         (-1.0 1.0 -1.0 1.0))
+         (-1.0 1.0 -1.0 1.0 0))
       (vols
-         (0.9 0.9 0.8 0.8))
+         (0.9 0.9 0.8 0.8 0.8))
       (cores
-         (-1 -1 1 1)))
+         (-1 -1 1 1 1)))
    (anim_tempo kTempoMedium)
    (preview 83591 115356)
    (quickplay
@@ -1766,7 +1769,7 @@
    (artist
       {do
          {set $songalbum "Meantime"}
-         {set $author "Harmonix, jnack"}
+         {set $author "Harmonix, raphaelgoulart"}
          {set $songyear "1992"}
          {set $songgenre "Metal"}
          {set $songorigin "Guitar Hero I"}
@@ -1782,15 +1785,16 @@
    (song
       (name songs/unsung/unsung)
       (midi_file songs/unsung/unsung.mid)
-      (tracks ((guitar (2 3))))
+      (tracks ((guitar (2 3))
+               (bass (4))))
       (slip_tracks
          ((2 3)))
       (pans
-         (-1.0 1.0 -1.0 1.0))
+         (-1.0 1.0 -1.0 1.0 0))
       (vols
-         (0.9 0.9 0.9 0.9))
+         (0.9 0.9 0.9 0.9 0.9))
       (cores
-         (-1 -1 1 1)))
+         (-1 -1 1 1 1)))
    (anim_tempo kTempoMedium)
    (preview 52337 87526)
    (midi_file songs/unsung/unsung.mid)
@@ -1842,7 +1846,7 @@
    (artist
       {do
          {set $songalbum "The Rise & Fall of Ziggy Stardust & the Spiders from Mars"}
-         {set $author "Harmonix, jnack"}
+         {set $author "Harmonix"}
          {set $songyear "1972"}
          {set $songgenre "Glam"}
          {set $songorigin "Guitar Hero I"}
