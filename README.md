@@ -87,7 +87,7 @@ All songs ported to Guitar Hero II Deluxe!
 * The Breaking Wheel by Artillery<br>
 *jnack's port*
 * Callout by The Acro-Brats<br>
-*jnack's port*
+*thardwardy's Custom Chart*
 * Decontrol by Drist<br>
 *jnack's port*
 * Even Rats by The Slip<br>
