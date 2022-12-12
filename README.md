@@ -6,10 +6,8 @@ Guitar Hero songs ported to Guitar Hero II Deluxe with bass charts and practice 
 *NOTE 2: Any song that just says "jnack's port" was ported with AddyMills script from [MidiTools/GH1toGH2](https://github.com/AddyMills/MidiTools/blob/main/GH1toGH2/GH1_to_GH2.py)
 
 *NOTE 3: "Custom chart" does not imply the guitar is recharted. rather, it means a custom bass chart was added.*
-# REMAINING SONGS
-All songs ported to Guitar Hero II Deluxe!
 
-# MAIN SETLIST
+# CREDITS
 * I Love Rock & Roll by Joan Jett & the Blackhearts<br>
 *jnack's port*
 * I Wanna Be Sedated by The Ramones<br>
@@ -87,7 +85,7 @@ All songs ported to Guitar Hero II Deluxe!
 * The Breaking Wheel by Artillery<br>
 *jnack's port*
 * Callout by The Acro-Brats<br>
-*jnack's port*
+*thardwardy's Custom Chart*
 * Decontrol by Drist<br>
 *jnack's port*
 * Even Rats by The Slip<br>

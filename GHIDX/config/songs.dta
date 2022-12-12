@@ -206,7 +206,7 @@
    (artist
       {do
          {set $songalbum "...Go Down Swinging!"}
-         {set $author "Harmonix"}
+         {set $author "Harmonix, thardwardy"}
          {set $songyear "2006"}
          {set $songgenre "Punk"}
          {set $songorigin "Guitar Hero I"}
