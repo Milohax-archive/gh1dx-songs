@@ -25,3 +25,4 @@ jobs:
           name: GH1DX-Xbox_songs
           path: |
             GHIDX_gh2live
+            ./album_art/*
