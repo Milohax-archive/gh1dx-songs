@@ -18,6 +18,7 @@ jobs:
           find . -name '*.bmp_xbox' -exec cp --parents \{\} ./album_art \;
           mv -v ./album_art/GHIDX/songs/* ./album_art
           rm -rf ./album_art/GHIDX/
+          mv dependencies/album_art_readme.txt ./album_art_readme.txt
           export LD_LIBRARY_PATH=$(pwd)/dependencies/OnyxToolkit/lib
           dependencies/OnyxToolkit/onyx stfs ./GHIDX --game gh2
       
@@ -28,3 +29,4 @@ jobs:
           path: |
             GHIDX_gh2live
             ./album_art/*
+            album_art_readme.txt
