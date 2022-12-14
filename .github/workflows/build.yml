@@ -16,6 +16,8 @@ jobs:
           find . -name "*.bmp_ps2" -type f -delete
           mkdir ./album_art
           find . -name '*.bmp_xbox' -exec cp --parents \{\} ./album_art \;
+          mv -v ./album_art/GHIDX/songs/* ./album_art
+          rm -rf ./album_art/GHIDX/
           export LD_LIBRARY_PATH=$(pwd)/dependencies/OnyxToolkit/lib
           dependencies/OnyxToolkit/onyx stfs ./GHIDX --game gh2
       
