@@ -212,7 +212,7 @@
          {set $songorigin "Guitar Hero I"}
          {set $songduration 198429}
          {set $songguitarrank 4}
-         {set $songbassrank 0}
+         {set $songbassrank 4}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "The Acro-Brats"}
