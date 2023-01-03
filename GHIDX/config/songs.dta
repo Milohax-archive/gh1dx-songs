@@ -9,8 +9,8 @@
          {set $songgenre "Metal"}
          {set $songorigin "Guitar Hero I"}
          {set $songduration 193356}
-         {set $songguitarrank 3}
-         {set $songbassrank 0}
+         {set $songguitarrank 6}
+         {set $songbassrank 6}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "Motörhead"}
@@ -46,8 +46,8 @@
          {set $songgenre "Rock"}
          {set $songorigin "Guitar Hero I"}
          {set $songduration 157816}
-         {set $songguitarrank 0}
-         {set $songbassrank 0}
+         {set $songguitarrank 6}
+         {set $songbassrank 2}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "Shaimus"}
@@ -92,7 +92,7 @@
          {set $songorigin "Guitar Hero I"}
          {set $songduration 260559}
          {set $songguitarrank 6}
-         {set $songbassrank 0}
+         {set $songbassrank 5}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "Ozzy Osbourne"}
@@ -122,14 +122,14 @@
    (name "Behind the Mask")
    (artist
       {do
-         {set $songalbum "The Way & Its Power"}
+         {set $songalbum "The Way and Its Power"}
          {set $author "Harmonix, AddyMills"}
          {set $songyear "2005"}
          {set $songgenre "Rock"}
          {set $songorigin "Guitar Hero I"}
          {set $songduration 173618}
-         {set $songguitarrank 0}
-         {set $songbassrank 0}
+         {set $songguitarrank 5}
+         {set $songbassrank 2}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "Anarchy Club"}
@@ -173,7 +173,7 @@
          {set $songgenre "Metal"}
          {set $songorigin "Guitar Hero I"}
          {set $songduration 252841}
-         {set $songguitarrank 0}
+         {set $songguitarrank 5}
          {set $songbassrank 0}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
@@ -211,7 +211,7 @@
          {set $songgenre "Punk"}
          {set $songorigin "Guitar Hero I"}
          {set $songduration 198429}
-         {set $songguitarrank 0}
+         {set $songguitarrank 4}
          {set $songbassrank 0}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
@@ -246,10 +246,10 @@
          {set $songalbum "Sharpen Your Sticks"}
          {set $author "Harmonix"}
          {set $songyear "2005"}
-         {set $songgenre "Rock"}
+         {set $songgenre "Hard Rock"}
          {set $songorigin "Guitar Hero I"}
          {set $songduration 220046}
-         {set $songguitarrank 0}
+         {set $songguitarrank 3}
          {set $songbassrank 0}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
@@ -320,10 +320,10 @@
          {set $songalbum "Audioslave"}
          {set $author "Harmonix"}
          {set $songyear "2002"}
-         {set $songgenre "Rock"}
+         {set $songgenre "Hard Rock"}
          {set $songorigin "Guitar Hero I"}
          {set $songduration 200126}
-         {set $songguitarrank 0}
+         {set $songguitarrank 4}
          {set $songbassrank 0}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
@@ -397,7 +397,7 @@
          {set $songgenre "Classic Rock"}
          {set $songorigin "Guitar Hero I"}
          {set $songduration 259765}
-         {set $songguitarrank 0}
+         {set $songguitarrank 5}
          {set $songbassrank 0}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
@@ -428,7 +428,7 @@
       "Decontrol")
    (artist
       {do
-         {set $songalbum "Orchids & Ammunition"}
+         {set $songalbum "Orchids and Ammunition"}
          {set $author "Harmonix"}
          {set $songyear "2005"}
          {set $songgenre "Rock"}
@@ -471,7 +471,7 @@
          {set $songgenre "Rock"}
          {set $songorigin "Guitar Hero I"}
          {set $songduration 182737}
-         {set $songguitarrank 0}
+         {set $songguitarrank 3}
          {set $songbassrank 0}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
@@ -508,7 +508,7 @@
          {set $songgenre "Rock"}
          {set $songorigin "Guitar Hero I"}
          {set $songduration 356711}
-         {set $songguitarrank 0}
+         {set $songguitarrank 3}
          {set $songbassrank 0}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
@@ -544,8 +544,8 @@
          {set $songgenre "Rock"}
          {set $songorigin "Guitar Hero I"}
          {set $songduration 272961}
-         {set $songguitarrank 0}
-         {set $songbassrank 0}
+         {set $songguitarrank 3}
+         {set $songbassrank 3}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "Made in Mexico"}
@@ -578,8 +578,8 @@
          {set $songgenre "Punk"}
          {set $songorigin "Guitar Hero I"}
          {set $songduration 188335}
-         {set $songguitarrank 0}
-         {set $songbassrank 0}
+         {set $songguitarrank 4}
+         {set $songbassrank 4}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "Sum 41"}
@@ -804,7 +804,7 @@
          {set $songorigin "Guitar Hero I"}
          {set $songduration 101763}
          {set $songguitarrank 2}
-         {set $songbassrank 0}
+         {set $songbassrank 1}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "Gurney"}
@@ -848,7 +848,7 @@
          {set $songgenre "Rock"}
          {set $songorigin "Guitar Hero I"}
          {set $songduration 168001}
-         {set $songguitarrank 0}
+         {set $songguitarrank 5}
          {set $songbassrank 0}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
@@ -885,7 +885,7 @@
          {set $songgenre "Rock"}
          {set $songorigin "Guitar Hero I"}
          {set $songduration 200930}
-         {set $songguitarrank 0}
+         {set $songguitarrank 3}
          {set $songbassrank 0}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
@@ -916,19 +916,19 @@
       "Hey")
    (artist
       {do
-         {set $songalbum "Second & Eighteen"}
+         {set $songalbum "Second and Eighteen"}
          {set $author "Harmonix"}
          {set $songyear "2004"}
          {set $songgenre "Rock"}
          {set $songorigin "Guitar Hero I"}
          {set $songduration 179936}
-         {set $songguitarrank 0}
+         {set $songguitarrank 2}
          {set $songbassrank 0}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
-         {set $songartist "Honest Bob & the Factory-to-Dealer Incentives"}
+         {set $songartist "Honest Bob and the Factory-to-Dealer Incentives"}
       }
-      "Honest Bob & the Factory-to-Dealer Incentives"
+      "Honest Bob and the Factory-to-Dealer Incentives"
    )
    (song
       (name songs/hey/hey)
@@ -959,8 +959,8 @@
          {set $songgenre "Alternative"}
          {set $songorigin "Guitar Hero I"}
          {set $songduration 238056}
-         {set $songguitarrank 0}
-         {set $songbassrank 0}
+         {set $songguitarrank 2}
+         {set $songbassrank 2}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "The Exies"}
@@ -997,8 +997,8 @@
          {set $songgenre "Funk"}
          {set $songorigin "Guitar Hero I"}
          {set $songduration 205537}
-         {set $songguitarrank 0}
-         {set $songbassrank 0}
+         {set $songguitarrank 5}
+         {set $songbassrank 7}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "Red Hot Chili Peppers"}
@@ -1026,10 +1026,10 @@
       (venue battle)))
 (iloverockandroll
    (name
-      "I Love Rock & Roll")
+      "I Love Rock N' Roll")
    (artist
       {do
-         {set $songalbum "I Love Rock & Roll"}
+         {set $songalbum "I Love Rock N' Roll"}
          {set $author "Harmonix"}
          {set $songyear "1981"}
          {set $songgenre "Punk"}
@@ -1039,9 +1039,9 @@
          {set $songbassrank 0}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
-         {set $songartist "Joan Jett & the Blackhearts"}
+         {set $songartist "Joan Jett and the Blackhearts"}
       }
-      "Joan Jett & the Blackhearts"
+      "Joan Jett and the Blackhearts"
    )
    (song
       (name songs/iloverockandroll/iloverockandroll)
@@ -1074,7 +1074,7 @@
          {set $songorigin "Guitar Hero I"}
          {set $songduration 239472}
          {set $songguitarrank 1}
-         {set $songbassrank 0}
+         {set $songbassrank 1}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "Bad Religion"}
@@ -1111,7 +1111,7 @@
          {set $songgenre "Metal"}
          {set $songorigin "Guitar Hero I"}
          {set $songduration 250951}
-         {set $songguitarrank 0}
+         {set $songguitarrank 6}
          {set $songbassrank 0}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
@@ -1149,7 +1149,7 @@
          {set $songorigin "Guitar Hero I"}
          {set $songduration 175165}
          {set $songguitarrank 2}
-         {set $songbassrank 0}
+         {set $songbassrank 2}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "The Ramones"}
@@ -1186,8 +1186,8 @@
          {set $songgenre "Classic Rock"}
          {set $songorigin "Guitar Hero I"}
          {set $songduration 197649}
-         {set $songguitarrank 0}
-         {set $songbassrank 0}
+         {set $songguitarrank 3}
+         {set $songbassrank 4}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "Queen"}
@@ -1224,8 +1224,8 @@
          {set $songgenre "Classic Rock"}
          {set $songorigin "Guitar Hero I"}
          {set $songduration 322730}
-         {set $songguitarrank 0}
-         {set $songbassrank 0}
+         {set $songguitarrank 3}
+         {set $songbassrank 3}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "Boston"}
@@ -1262,8 +1262,8 @@
          {set $songgenre "Alternative"}
          {set $songorigin "Guitar Hero I"}
          {set $songduration 272806}
-         {set $songguitarrank 0}
-         {set $songbassrank 0}
+         {set $songguitarrank 6}
+         {set $songbassrank 7}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "Queens of the Stone Age"}
@@ -1300,7 +1300,7 @@
          {set $songgenre "Rock"}
          {set $songorigin "Guitar Hero I"}
          {set $songduration 268175}
-         {set $songguitarrank 0}
+         {set $songguitarrank 4}
          {set $songbassrank 0}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
@@ -1337,7 +1337,7 @@
          {set $songgenre "Rock"}
          {set $songorigin "Guitar Hero I"}
          {set $songduration 280775}
-         {set $songguitarrank 0}
+         {set $songguitarrank 3}
          {set $songbassrank 0}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
@@ -1374,8 +1374,8 @@
          {set $songgenre "Classic Rock"}
          {set $songorigin "Guitar Hero I"}
          {set $songduration 361400}
-         {set $songguitarrank 0}
-         {set $songbassrank 0}
+         {set $songguitarrank 1}
+         {set $songbassrank 1}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "Deep Purple"}
@@ -1406,13 +1406,13 @@
    (artist
       {do
          {set $songalbum "Axis: Bold as Love"}
-         {set $author "Harmonix"}
+         {set $author "Harmonix, mariteaux"}
          {set $songyear "1967"}
          {set $songgenre "Classic Rock"}
          {set $songorigin "Guitar Hero I"}
          {set $songduration 238056}
-         {set $songguitarrank 0}
-         {set $songbassrank 0}
+         {set $songguitarrank 6}
+         {set $songbassrank 4}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "The Jimi Hendrix Experience"}
@@ -1455,8 +1455,8 @@
          {set $songgenre "Alternative"}
          {set $songorigin "Guitar Hero I"}
          {set $songduration 212280}
-         {set $songguitarrank 0}
-         {set $songbassrank 0}
+         {set $songguitarrank 2}
+         {set $songbassrank 2}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "Incubus"}
@@ -1493,7 +1493,7 @@
          {set $songgenre "Rock"}
          {set $songorigin "Guitar Hero I"}
          {set $songduration 215556}
-         {set $songguitarrank 0}
+         {set $songguitarrank 2}
          {set $songbassrank 0}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
@@ -1531,7 +1531,7 @@
          {set $songorigin "Guitar Hero I"}
          {set $songduration 236633}
          {set $songguitarrank 4}
-         {set $songbassrank 0}
+         {set $songbassrank 4}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "Megadeth"}
@@ -1564,7 +1564,7 @@
 )
 (takeitoff
    (name
-      "Take it Off")
+      "Take It Off")
    (artist
       {do
          {set $songalbum "Spend the Night"}
@@ -1573,8 +1573,8 @@
          {set $songgenre "Rock"}
          {set $songorigin "Guitar Hero I"}
          {set $songduration 168182}
-         {set $songguitarrank 0}
-         {set $songbassrank 0}
+         {set $songguitarrank 4}
+         {set $songbassrank 1}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "The Donnas"}
@@ -1612,8 +1612,8 @@
          {set $songgenre "Alternative"}
          {set $songorigin "Guitar Hero I"}
          {set $songduration 253007}
-         {set $songguitarrank 0}
-         {set $songbassrank 0}
+         {set $songguitarrank 4}
+         {set $songbassrank 1}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "Franz Ferdinand"}
@@ -1650,13 +1650,13 @@
          {set $songgenre "Blues"}
          {set $songorigin "Guitar Hero I"}
          {set $songduration 333499}
-         {set $songguitarrank 0}
+         {set $songguitarrank 6}
          {set $songbassrank 0}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
-         {set $songartist "Stevie Ray Vaughan & Double Trouble"}
+         {set $songartist "Stevie Ray Vaughan and Double Trouble"}
       }
-      "Stevie Ray Vaughan & Double Trouble"
+      "Stevie Ray Vaughan and Double Trouble"
    )
    (song
       (name songs/texasflood/texasflood)
@@ -1687,7 +1687,7 @@
          {set $songorigin "Guitar Hero I"}
          {set $songduration 243121}
          {set $songguitarrank 3}
-         {set $songbassrank 0}
+         {set $songbassrank 3}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "White Zombie"}
@@ -1731,7 +1731,7 @@
          {set $songorigin "Guitar Hero I"}
          {set $songduration 134978}
          {set $songguitarrank 7}
-         {set $songbassrank 0}
+         {set $songbassrank 1}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "Andrew Buch"}
@@ -1776,7 +1776,7 @@
          {set $songorigin "Guitar Hero I"}
          {set $songduration 244334}
          {set $songguitarrank 3}
-         {set $songbassrank 0}
+         {set $songbassrank 3}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "Helmet"}
@@ -1814,8 +1814,8 @@
          {set $songgenre "Metal"}
          {set $songorigin "Guitar Hero I"}
          {set $songduration 308092}
-         {set $songguitarrank 0}
-         {set $songbassrank 0}
+         {set $songguitarrank 1}
+         {set $songbassrank 1}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "Judas Priest"}
@@ -1846,13 +1846,13 @@
       "Ziggy Stardust")
    (artist
       {do
-         {set $songalbum "The Rise & Fall of Ziggy Stardust & the Spiders from Mars"}
+         {set $songalbum "The Rise and Fall of Ziggy Stardust and the Spiders from Mars"}
          {set $author "Harmonix"}
          {set $songyear "1972"}
          {set $songgenre "Glam"}
          {set $songorigin "Guitar Hero I"}
          {set $songduration 256657}
-         {set $songguitarrank 0}
+         {set $songguitarrank 4}
          {set $songbassrank 0}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
