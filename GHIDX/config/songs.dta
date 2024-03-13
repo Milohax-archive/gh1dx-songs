@@ -1734,9 +1734,9 @@
          {set $songbassrank 1}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
-         {set $songartist "Andrew Buch"}
+         {set $songartist "Andraleia Buch"}
       }
-      "Andrew Buch"
+      "Andraleia Buch"
    )
    (caption performed_by)
    (song
