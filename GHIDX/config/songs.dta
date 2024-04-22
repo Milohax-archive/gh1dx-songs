@@ -33,7 +33,7 @@
    (anim_tempo kTempoFast)
    (preview 9845 44150)
    (quickplay
-      (character_outfit metal)
+      (character_outfit metal1)
       (guitar lespaul)
       (venue fest)))
 (allofthis
@@ -77,7 +77,7 @@
    (anim_tempo kTempoFast)
    (preview 42213 70000)
    (quickplay
-      (character_outfit goth)
+      (character_outfit goth1)
       (guitar flying_v)
       (venue big)))
 (barkatthemoon
@@ -117,7 +117,7 @@
    (quickplay
       (character_outfit metal1)
       (guitar lespaul)
-      (venue theatre)))
+      (venue fest)))
 (behindthemask
    (name "Behind the Mask")
    (artist
@@ -159,9 +159,9 @@
    (anim_tempo kTempoMedium)
    (preview 44768 76000)
    (quickplay
-      (character_outfit goth)
+      (character_outfit goth1)
       (guitar flying_v)
-      (venue theatre)))
+      (venue fest)))
 (breakingwheel
    (name
       "The Breaking Wheel")
@@ -197,8 +197,8 @@
    (anim_tempo kTempoFast)
    (preview 36780 66000)
    (quickplay
-      (character alterna1)
-      (guitar gibson_flying_v)
+      (character_outfit alterna1)
+      (guitar flying_v)
       (venue battle)))
 (callout
    (name
@@ -235,8 +235,8 @@
    (anim_tempo kTempoFast)
    (preview 36594 65000)
    (quickplay
-      (character punk)
-      (guitar gibson_sg)
+      (character_outfit punk1)
+      (guitar sg)
       (venue small1)))
 (cavemanrejoice
    (name
@@ -272,9 +272,9 @@
    (anim_tempo kTempoMedium)
    (preview 29628 60000)
    (quickplay
-      (character alterna)
-      (guitar gibson_lespaul)
-      (venue theatre)))
+      (character_outfit alterna1)
+      (guitar lespaul)
+      (venue fest)))
 (cheatonthechurch
    (name
       "Cheat on the Church")
@@ -309,8 +309,8 @@
    (anim_tempo kTempoFast)
    (preview 71888 100000)
    (quickplay
-      (character alterna)
-      (guitar gibson_lespaul)
+      (character_outfit alterna1)
+      (guitar lespaul)
       (venue arena)))
 (cochise
    (name
@@ -346,9 +346,9 @@
    (anim_tempo kTempoMedium)
    (preview 48390 78000)
    (quickplay
-      (character alterna)
-      (guitar gibson_sg)
-      (venue theatre)))
+      (character_outfit alterna1)
+      (guitar sg)
+      (venue fest)))
 (cowboysfromhell
    (name
       "Cowboys from Hell")
@@ -383,8 +383,8 @@
    (anim_tempo kTempoMedium)
    (preview 43978 73000)
    (quickplay
-      (character metal)
-      (guitar gibson_sg)
+      (character_outfit metal1)
+      (guitar sg)
       (venue arena)))
 (crossroads
    (name
@@ -420,8 +420,8 @@
    (anim_tempo kTempoFast)
    (preview 19969 49000)
    (quickplay
-      (character classic)
-      (guitar gibson_lespaul)
+      (character_outfit rock1)
+      (guitar lespaul)
       (venue fest)))
 (decontrol
    (name
@@ -457,8 +457,8 @@
    (anim_tempo kTempoFast)
    (preview 50642 80362)
    (quickplay
-      (character grim)
-      (guitar gibson_sg)
+      (character_outfit grim)
+      (guitar sg)
       (venue big_club)))
 (eureka
    (name
@@ -494,8 +494,8 @@
    (anim_tempo kTempoFast)
    (preview 32507 62972)
    (quickplay
-      (character classic)
-      (guitar gibson_sg)
+      (character_outfit rock1)
+      (guitar sg)
       (venue small1)))
 (evenrats
    (name
@@ -531,8 +531,8 @@
    (anim_tempo kTempoFast)
    (preview 300633 335682)
    (quickplay
-      (character alterna)
-      (guitar gibson_lespaul)
+      (character_outfit alterna1)
+      (guitar lespaul)
       (venue fest)))
 (farewellmyth
    (name "Farewell Myth")
@@ -564,9 +564,9 @@
    (preview 140403 175075)
    (band metal_bass metal_drummer female_singer)
    (quickplay
-      (character_outfit rockabill)
-      (guitar explorer)
-      (venue theatre)))
+      (character_outfit rock1)
+      (guitar sg)
+      (venue fest)))
 (fatlip
    (name
       "Fat Lip")
@@ -601,9 +601,9 @@
    (anim_tempo kTempoMedium)
    (preview 18065 39811)
    (quickplay
-      (character punk)
-      (guitar gibson_flying_v)
-      (venue theatre)))
+      (character_outfit punk1)
+      (guitar flying_v)
+      (venue fest)))
 (fireitup
    (name
       "Fire It Up")
@@ -638,9 +638,8 @@
    (anim_tempo kTempoMedium)
    (preview 143777 170357)
    (quickplay
-      (character metal)
-      (guitar gibson_lespaul)
-      (guitar_skin gibson_lespaul_wylde)
+      (character_outfit metal1)
+      (guitar lespaul)
       (venue arena)))
 (flyonthewall
    (name
@@ -676,8 +675,8 @@
    (anim_tempo kTempoFast)
    (preview 21083 52105)
    (quickplay
-      (character classic)
-      (guitar gibson_flying_v)
+      (character_outfit rock1)
+      (guitar flying_v)
       (venue small1)))
 (frankenstein
    (name
@@ -715,7 +714,7 @@
    (preview 26000 56000)
    (band metal_bass metal_drummer metal_keyboard)
    (quickplay
-      (character_outfit rock2)
+      (character_outfit rock1)
       (guitar lespaul)
       (venue fest)))
 (getready2rokk
@@ -753,8 +752,8 @@
    (anim_tempo kTempoFast)
    (preview 59164 89278)
    (quickplay
-      (character punk)
-      (guitar gibson_flying_v)
+      (character_outfit punk1)
+      (guitar flying_v)
       (venue arena)))
 (godzilla
    (name
@@ -790,8 +789,8 @@
    (anim_tempo kTempoMedium)
    (preview 54241 84000)
    (quickplay
-      (character alterna)
-      (guitar gibson_sg)
+      (character_outfit alterna1)
+      (guitar sg)
       (venue arena)))
 (graveyardshift
    (name "Graveyard Shift")
@@ -871,8 +870,8 @@
    (anim_tempo kTempoFast)
    (preview 49179 80000)
    (quickplay
-      (character punk)
-      (guitar gibson_sg)
+      (character_outfit punk1)
+      (guitar sg)
       (venue fest)))
 (heartfullofblack
    (name
@@ -908,8 +907,8 @@
    (anim_tempo kTempoMedium)
    (preview 47159 77000)
    (quickplay
-      (character metal)
-      (guitar gibson_lespaul)
+      (character_outfit metal1)
+      (guitar lespaul)
       (venue big)))
 (hey
    (name
@@ -945,9 +944,9 @@
    (anim_tempo kTempoFast)
    (preview 121301 153137)
    (quickplay
-      (character classic)
-      (guitar gibson_lespaul)
-      (venue theatre)))
+      (character_outfit rock1)
+      (guitar lespaul)
+      (venue fest)))
 (heyyou
    (name
       "Hey You")
@@ -1059,8 +1058,8 @@
    (anim_tempo kTempoMedium)
    (preview 43885 73000)
    (quickplay
-      (character alterna)
-      (guitar gibson_lespaul)
+      (character_outfit rock1)
+      (guitar lespaul)
       (venue battle)))
 (infected
    (name
@@ -1134,8 +1133,8 @@
    (anim_tempo kTempoMedium)
    (preview 39102 70000)
    (quickplay
-      (character metal)
-      (guitar gibson_sg)
+      (character_outfit metal1)
+      (guitar sg)
       (venue small1)))
 (iwannabesedated
    (name
@@ -1210,9 +1209,9 @@
    (anim_tempo kTempoFast)
    (preview 26702 57254)
    (quickplay
-      (character_outfit classic)
+      (character_outfit rock1)
       (guitar lespaul)
-      (venue theatre)))
+      (venue fest)))
 (morethanafeeling
    (name
       "More Than a Feeling")
@@ -1248,8 +1247,8 @@
    (anim_tempo kTempoMedium)
    (preview 52500 82000)
    (quickplay
-      (character classic)
-      (guitar gibson_lespaul)
+      (character_outfit rock1)
+      (guitar lespaul)
       (venue small1)))
 (nooneknows
    (name
@@ -1286,8 +1285,8 @@
    (anim_tempo kTempoFast)
    (preview 23498 58316)
    (quickplay
-      (character metal)
-      (guitar gibson_lespaul)
+      (character_outfit metal1)
+      (guitar lespaul)
       (venue fest)))
 (sailyourshipby
    (name
@@ -1323,9 +1322,9 @@
    (anim_tempo kTempoMedium)
    (preview 43281 75000)
    (quickplay
-      (character alterna)
-      (guitar gibson_flying_v)
-      (venue theatre)))
+      (character_outfit alterna1)
+      (guitar flying_v)
+      (venue fest)))
 (sharpdressedman
    (name
       "Sharp Dressed Man")
@@ -1360,8 +1359,8 @@
    (anim_tempo kTempoMedium)
    (preview 27028 59300)
    (quickplay
-      (character alterna1)
-      (guitar gibson_flying_v)
+      (character_outfit alterna1)
+      (guitar flying_v)
       (venue small1)))
 (smokeonthewater
    (name
@@ -1398,7 +1397,7 @@
    (anim_tempo kTempoMedium)
    (preview 88000 119000)
    (quickplay
-      (character_outfit rock2)
+      (character_outfit rock1)
       (guitar sg)
       (venue battle)))
 (spanishcastlemagic
@@ -1441,7 +1440,7 @@
    (anim_tempo kTempoMedium)
    (preview 45789 75000)
    (quickplay
-      (character_outfit goth2)
+      (character_outfit goth1)
       (guitar flying_v)
       (venue fest)))
 (stellar
@@ -1481,7 +1480,7 @@
    (quickplay
       (character_outfit alterna1)
       (guitar sg)
-      (venue theatre)))
+      (venue fest)))
 (storyofmylove
    (name
       "Story of My Love")
@@ -1516,8 +1515,8 @@
    (anim_tempo kTempoFast)
    (preview 44653 76000)
    (quickplay
-      (character metal)
-      (guitar gibson_lespaul)
+      (character_outfit metal1)
+      (guitar lespaul)
       (venue big)))
 (symphofdestruction
    (name
@@ -1558,8 +1557,8 @@
    (preview 51548 81000)
 ;   (midi_file songs/symphofdestruction/symphofdestruction.mid)
    (quickplay
-      (character alterna)
-      (guitar gibson_lespaul)
+      (character_outfit alterna1)
+      (guitar lespaul)
       (venue big))
 )
 (takeitoff
@@ -1636,8 +1635,8 @@
    (anim_tempo kTempoMedium)
    (preview 83591 115356)
    (quickplay
-      (character alterna)
-      (guitar gibson_flying_v)
+      (character_outfit alterna1)
+      (guitar flying_v)
       (venue small2)))
 (texasflood
    (name
@@ -1673,8 +1672,8 @@
    (anim_tempo kTempoFast)
    (preview 64179 89693)
    (quickplay
-      (character classic)
-      (guitar gibson_sg)
+      (character_outfit rock1)
+      (guitar sg)
       (venue arena)))
 (thunderkiss65
    (name "Thunder Kiss '65")
@@ -1699,7 +1698,7 @@
       (tracks
          ((guitar (2 3))
           (bass 4)
-		  (fake 0)))
+        (fake 0)))
       (pans (-1.0 1.0 -1.0 1.0 0.0))
       (vols (0.0 0.0 0.0 0.0 0.0))
       (cores (-1 -1 1 1 -1))
@@ -1717,7 +1716,7 @@
    (anim_tempo kTempoMedium)
    (preview 34644 66343)
    (quickplay
-      (character_outfit goth2)
+      (character_outfit goth1)
       (guitar flying_v)
       (venue fest)))
 (trippolette
@@ -1761,7 +1760,7 @@
    (anim_tempo kTempoFast)
    (preview 44854 67277)
    (quickplay
-      (character_outfit goth2)
+      (character_outfit goth1)
       (guitar flying_v)
       (venue arena)))
 (unsung
@@ -1800,9 +1799,9 @@
    (preview 52337 87526)
    (midi_file songs/unsung/unsung.mid)
    (quickplay
-      (character alterna1)
-      (guitar gibson_lespaul)
-      (venue theatre)))
+      (character_outfit alterna1)
+      (guitar lespaul)
+      (venue fest)))
 (yougotanotherthingcomin
    (name
       "You've Got Another Thing Comin'")
@@ -1875,6 +1874,6 @@
    (anim_tempo kTempoMedium)
    (preview 112198 142000)
    (quickplay
-      (character classic)
-      (guitar gibson_flying_v)
-      (venue theatre)))
+      (character_outfit rock1)
+      (guitar flying_v)
+      (venue fest)))
